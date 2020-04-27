@@ -1,0 +1,1021 @@
+,Country,City,Confirmed,Recovered,Deaths,Latitude,Longtitude,Codes,Continent
+0,Afghanistan,Kabul,507,45,14,34.5260131,69.17764759999999,AFG,Asia
+1,Afghanistan,Herat,456,102,10,34.3508273,62.2164003,AFG,Asia
+2,Afghanistan,Kandahar,245,6,5,31.6206429,65.7157231,AFG,Asia
+3,Afghanistan,Balkh,91,3,6,36.7581256,66.8980826,AFG,Asia
+4,Afghanistan,Paktia,55,0,1,33.705724,69.4083555,AFG,Asia
+5,Afghanistan,Nimruz,53,5,0,30.7753811,62.4793088,AFG,Asia
+6,Afghanistan,Nangarhar,36,0,2,34.220389000000004,70.38003140000002,AFG,Asia
+7,Afghanistan,Ghazni,32,3,4,33.3149631,67.828989,AFG,Asia
+8,Afghanistan,Kunduz,30,1,0,36.87071870000001,68.75635279999999,AFG,Asia
+9,Afghanistan,Helmand,24,0,0,31.0,64.0,AFG,Asia
+10,Afghanistan,Kunar,23,0,1,34.95,71.133333,AFG,Asia
+11,Afghanistan,Laghman,23,0,0,34.783333,70.18333299999999,AFG,Asia
+12,Afghanistan,Baghlan,22,2,2,35.75,69.0,AFG,Asia
+13,Afghanistan,Takhar,21,0,2,36.5940732,69.79389959999999,AFG,Asia
+14,Afghanistan,Logar,19,2,1,34.0653595,69.160172,AFG,Asia
+15,Afghanistan,Samangan,17,6,0,36.0,67.666667,AFG,Asia
+16,Afghanistan,Kapisa,13,2,0,34.905556,69.741667,AFG,Asia
+17,Afghanistan,Jowzjan,11,0,1,36.9665706,65.9560232,AFG,Asia
+18,Afghanistan,Paktika,11,0,1,32.393623100000006,68.70365140000001,AFG,Asia
+19,Afghanistan,Bamyan,10,2,0,34.75,67.25,AFG,Asia
+20,Afghanistan,Farah,10,6,0,32.607111,62.671011,AFG,Asia
+21,Afghanistan,Ghor,10,1,0,34.1605257,64.9201949,AFG,Asia
+22,Afghanistan,Zabul,10,2,0,32.306894199999995,67.12990400000001,AFG,Asia
+23,Afghanistan,Badghis,9,0,0,35.0,63.75,AFG,Asia
+24,Afghanistan,Daykundi,9,1,1,33.725113,66.2196554,AFG,Asia
+25,Afghanistan,Faryab,9,1,0,35.9261784,64.62377579999999,AFG,Asia
+26,Afghanistan,Panjshir,8,0,0,35.4338536,69.79308990000001,AFG,Asia
+27,Afghanistan,Khost,6,0,0,33.4014634,69.8912294,AFG,Asia
+28,Afghanistan,Sar-e Pol,6,0,0,35.5532126,66.24267660000001,AFG,Asia
+29,Afghanistan,Wardak,6,0,0,34.3191345,68.3360426,AFG,Asia
+30,Afghanistan,Parwan,5,0,0,34.9797014,68.9146703,AFG,Asia
+31,Afghanistan,Oruzgan,3,0,0,32.812968100000006,66.0183185,AFG,Asia
+32,Afghanistan,Badakhshan,1,1,0,36.80402539999999,71.36765799999998,AFG,Asia
+33,Algeria,Blida Province,749,133,104,36.4701645,2.8287985,DZA,Africa
+34,Algeria,Algiers Province,475,261,103,36.775360600000006,3.0601882,DZA,Africa
+35,Algeria,Oran Province,194,50,13,35.7032751,-0.6492975999999999,DZA,Africa
+36,Algeria,Sétif Province,160,2,11,36.1892751,5.403493,DZA,Africa
+37,Algeria,Constantine Province,130,0,9,36.364519,6.6082600000000005,DZA,Africa
+38,Algeria,Aïn Defla Province,126,0,5,36.2656797,1.9701666,DZA,Africa
+39,Algeria,Tipaza Province,122,0,21,2.4482509,36.5918179,DZA,Africa
+40,Algeria,Béjaïa Province,116,1,14,36.7511783,5.0643687,DZA,Africa
+41,Algeria,Tizi Ouzou Province,99,2,14,36.7137843,4.0493919,DZA,Africa
+42,Algeria,Bordj Bou Arréridj Province,82,0,17,36.07411210000001,4.7613476,DZA,Africa
+43,Algeria,Tlemcen Province,61,0,6,34.881789000000005,-1.316699,DZA,Africa
+44,Algeria,Oum El Bouaghi Province,59,0,4,35.86877579999999,7.115064500000001,DZA,Africa
+45,Algeria,Mostaganem Province,56,0,3,35.92880800000001,0.089978,DZA,Africa
+46,Algeria,Ouargla Province,53,1,5,31.94467,5.320958,DZA,Africa
+47,Algeria,Tiaret Province,52,0,2,35.3661448,1.3194687,DZA,Africa
+48,Algeria,Ghardaia Province,51,0,4,32.485855,3.677104,DZA,Africa
+49,Algeria,Chlef Province,49,0,1,36.164592,1.331499,DZA,Africa
+50,Algeria,Djelfa Province,48,19,4,34.671359,3.254037,DZA,Africa
+51,Algeria,Médéa Province,46,21,10,36.265344,2.766957,DZA,Africa
+52,Algeria,Tissemsilt Province,46,1,2,35.604813,1.810476,DZA,Africa
+53,Algeria,Biskra Province,44,2,6,34.8508508,5.7286877999999986,DZA,Africa
+54,Algeria,Jijel Province,43,0,5,36.8167305,5.7714940000000015,DZA,Africa
+55,Algeria,Boumerdès Province,42,1,7,36.758882,3.470596,DZA,Africa
+56,Algeria,Sidi Bel Abbès Province,41,0,6,35.1911682,-0.6347284000000001,DZA,Africa
+57,Algeria,Mascara Province,39,2,4,35.394081,0.1379568,DZA,Africa
+58,Algeria,El Oued Province,35,0,8,33.3611766,6.8603492,DZA,Africa
+59,Algeria,Skikda Province,34,3,4,36.879882,6.907485,DZA,Africa
+60,Algeria,Adrar Province,31,0,1,27.8733807,-0.2874884,DZA,Africa
+61,Algeria,Aïn Témouchent Province,31,0,4,35.26665705,-1.1499276224075037,DZA,Africa
+62,Algeria,Béchar Province,29,0,0,31.6165355,-2.2180053,DZA,Africa
+63,Algeria,Batna Province,26,1,4,35.554404,6.1767453,DZA,Africa
+64,Algeria,Annaba Province,25,3,3,36.8982165,7.7549272,DZA,Africa
+65,Algeria,Khenchela Province,25,0,2,7.145711,35.43015399999999,DZA,Africa
+66,Algeria,Laghouat Province,23,0,0,33.8063518,2.8808616,DZA,Africa
+67,Algeria,Bouïra Province,22,15,3,36.37390120000001,3.9007007000000007,DZA,Africa
+68,Algeria,Tébessa Province,22,0,3,35.4035956,8.1212322,DZA,Africa
+69,Algeria,Relizane Province,19,0,3,35.738119299999994,0.5547673000000001,DZA,Africa
+70,Algeria,Guelma Province,17,0,1,36.465084,7.430647,DZA,Africa
+71,Algeria,M'Sila Province,17,0,7,35.70875529999999,4.5371552,DZA,Africa
+72,Algeria,El Taref Province,12,0,0,35.6476666,5.4598195,DZA,Africa
+73,Algeria,Mila Province,11,0,1,36.451941,6.262331,DZA,Africa
+74,Algeria,Souk Ahras Province,9,0,1,36.284832,7.9515466,DZA,Africa
+75,Algeria,Saïda Province,4,0,0,34.841640500000004,0.1509912,DZA,Africa
+76,Algeria,El Bayadh Province,3,0,0,33.63785225,1.0122039112504564,DZA,Africa
+77,Algeria,Illizi Province,2,0,0,26.488083500000002,8.357149150673568,DZA,Africa
+78,Algeria,Naâma Province,1,0,0,33.2647342,-0.3110393,DZA,Africa
+79,Algeria,Tamanrasset Province,1,0,0,22.7854543,5.5324465,DZA,Africa
+80,Argentina,Buenos Aires Province,1331,0,76,-35.1458014,-62.7306676,ARG,South America
+81,Argentina,Buenos Aires,1260,0,69,-34.6075682,-58.4370894,ARG,South America
+82,Argentina,Chaco Province,298,0,12,-25.3042318,-57.6149682,ARG,South America
+83,Argentina,Cordoba,273,0,12,-31.4173391,-64.183319,ARG,South America
+84,Argentina,Santa Fe Province,242,0,2,-32.92920765,-60.818794351479255,ARG,South America
+85,Argentina,Río Negro,184,0,7,-40.4811973,-67.6145911,ARG,South America
+86,Argentina,Tierra del Fuego Province,117,0,0,-54.4071064,-67.8974895,ARG,South America
+87,Argentina,Neuquen,108,0,4,-38.36950570000001,-69.832275,ARG,South America
+88,Argentina,Mendoza Province,75,0,10,-35.1458014,-62.7306676,ARG,South America
+89,Argentina,La Rioja Province,50,0,5,-32.87875080000001,-68.835015,ARG,South America
+90,Argentina,Corrientes,47,0,0,-28.5912315,-57.9394658,ARG,South America
+91,Argentina,Santa Cruz Province,43,0,0,-48.5693327,-70.1606767,ARG,South America
+92,Argentina,Tucumán,35,0,3,-26.5643582,-64.882397,ARG,South America
+93,Argentina,Entre Rios,23,0,0,-31.6252842,-59.3539578,ARG,South America
+94,Argentina,Santiago del Estero Province,15,0,0,-34.7092989,-58.4090002,ARG,South America
+95,Argentina,San Luis Province,10,0,0,-25.2208616,-57.518976,ARG,South America
+96,Argentina,Misiones Province,6,0,1,-51.6296805,-69.2067251,ARG,South America
+97,Argentina,Jujuy,5,0,0,-23.3161458,-65.7595288,ARG,South America
+98,Argentina,La Pampa,5,0,0,-37.2314643,-65.3972948,ARG,South America
+99,Argentina,Salta Province,4,0,0,-32.89604480000001,-68.8348455,ARG,South America
+100,Argentina,Chubut Province,2,0,0,-44.99026420000001,-70.81717306137952,ARG,South America
+101,Argentina,San Juan Province,2,0,0,-25.4656076,-54.68059153754289,ARG,South America
+102,Armenia,Yerevan,219,0,7,40.17761210000001,44.5125849,ARM,Asia
+103,Armenia,Ararat Province,179,0,0,39.9530516,44.801806075,ARM,Asia
+104,Armenia,Kotayk Province,88,0,0,40.2803175,44.6545793,ARM,Asia
+105,Armenia,Armavir Province,83,0,0,40.1158531,43.9365414,ARM,Asia
+106,Armenia,Syunik Province,25,0,0,39.35086995,46.155037887649314,ARM,Asia
+107,Armenia,Shirak Province,20,0,1,40.81400525,43.87987291777994,ARM,Asia
+108,Armenia,Lori Province,12,0,0,40.9589685,44.54629758256929,ARM,Asia
+109,Armenia,Aragatsotn Province,10,0,0,40.479544,44.29490030548395,ARM,Asia
+110,Armenia,Gegharkunik Province,10,0,0,40.30526105,45.41001320000001,ARM,Asia
+111,Armenia,Tavush Province,6,0,0,40.97285215,45.15347536249365,ARM,Asia
+112,Armenia,Vayots Dzor Province,1,0,0,39.75381845,45.4236282167009,ARM,Asia
+113,Australia,New South Wales,3004,0,0,-31.875983500000004,147.2869493,AUS,Oceania
+114,Australia,Victoria,1349,0,0,-36.5986096,144.6780052,AUS,Oceania
+115,Australia,Queensland,1033,0,0,-22.1646782,144.58449030000003,AUS,Oceania
+116,Australia,Western Australia,549,0,0,-25.2303005,121.0187246,AUS,Oceania
+117,Australia,South Australia,438,0,0,-30.5343665,135.6301212,AUS,Oceania
+118,Australia,Tasmania,214,0,0,-42.14220555,146.67235178784668,AUS,Oceania
+119,Australia,Australian Capital Territory,106,0,0,-35.488350200000006,149.00269419999995,AUS,Oceania
+120,Australia,Northern Territory,27,0,0,-19.8516101,133.2303375,AUS,Oceania
+121,Austria,Tyrol,3427,2556,86,47.223193,11.5261028,AUT,Europe
+122,Austria,Lower Austria,2495,1572,83,48.2817813,15.7632457,AUT,Europe
+123,Austria,Upper Austria,2205,1884,41,48.25,14.0,AUT,Europe
+124,Austria,Vienna,2204,1635,96,48.2083537,16.372504199999998,AUT,Europe
+125,Austria,Styria,1663,816,106,47.2500001,15.166666500000002,AUT,Europe
+126,Austria,Salzburg,1201,930,30,47.7981346,13.0464806,AUT,Europe
+127,Austria,Vorarlberg,859,731,10,47.25,9.9166667,AUT,Europe
+128,Austria,Carinthia,394,307,10,46.7500001,13.8333333,AUT,Europe
+129,Austria,Burgenland,307,200,8,47.5000001,16.4166666,AUT,Europe
+130,Belgium,Flanders,25795,0,0,51.0962462,4.1798512892601565,BEL,Europe
+131,Belgium,Wallonia,15188,0,0,50.1545331,5.3991821671645575,BEL,Europe
+132,Belgium,Brussels,4702,0,0,50.8465573,4.351697,BEL,Europe
+133,Bolivia,Santa Cruz Department,525,0,22,-17.333333,-61.5,BOL,South America
+134,Bolivia,La Paz Department,168,0,15,-18.0226485,-70.25354370000001,BOL,South America
+135,Bolivia,Oruro Department,79,0,4,-22.0889644,-65.59196452500437,BOL,South America
+136,Bolivia,Cochabamba Department,78,0,6,-18.0226485,-70.25354370000001,BOL,South America
+137,Bolivia,Beni Department,57,0,1,-19.024982,-65.703455,BOL,South America
+138,Bolivia,Potosi Department,26,0,1,-20.666667,-66.666667,BOL,South America
+139,Bolivia,Pando Department,12,0,1,-11.183333,-67.18333299999999,BOL,South America
+140,Bolivia,Tarija Department,3,0,0,-11.3760022,-67.288238,BOL,South America
+141,Bolivia,Chuquisaca Department,2,0,0,-64.416667,-20.0,BOL,South America
+142,Brazil,State of São Paulo,20715,0,1700,-23.5506507,-46.6333824,BRA,South America
+143,Brazil,State of Rio de Janeiro,7111,0,645,-22.9110137,-43.2093727,BRA,South America
+144,Brazil,State of Ceará,5833,0,327,-5.3264703,-39.7156073,BRA,South America
+145,Brazil,State of Pernambuco,4898,0,415,-8.4116316,-37.5919699,BRA,South America
+146,Brazil,State of Amazonas,3833,0,304,-4.479925,-63.5185396,BRA,South America
+147,Brazil,State of Maranhão,2223,0,112,-5.2085503,-45.3930262,BRA,South America
+148,Brazil,State of Bahia,2209,0,73,-12.285251,-41.9294776,BRA,South America
+149,Brazil,State of Pará,1867,0,100,-4.7493933,-52.89730060000001,BRA,South America
+150,Brazil,State of Espírito Santo,1703,0,51,-19.5687682,-40.1721991,BRA,South America
+151,Brazil,State of Minas Gerais,1548,0,61,-18.5264844,-44.1588654,BRA,South America
+152,Brazil,State of Santa Catarina,1235,0,42,-27.0628367,-51.11496500000001,BRA,South America
+153,Brazil,State of Rio Grande do Sul,1166,0,35,-29.8425284,-53.76805770000001,BRA,South America
+154,Brazil,State of Paraná,1156,0,72,-24.4842187,-51.8148872,BRA,South America
+155,Brazil,Federal District,1066,0,27,-15.7754462,-47.7970891,BRA,South America
+156,Brazil,State of Rio Grande do Norte,825,0,44,-5.6781175,-36.4781776,BRA,South America
+157,Brazil,State of Amapá,798,0,21,1.3545442,-51.9161977,BRA,South America
+158,Brazil,State of Goiás,573,0,25,-15.9323662,-50.13929279999999,BRA,South America
+159,Brazil,State of Alagoas,554,0,32,-9.6611661,-36.65024260000001,BRA,South America
+160,Brazil,State of Paraíba,499,0,49,-7.1219366,-36.7246845,BRA,South America
+161,Brazil,State of Roraima,401,0,4,2.135138,-61.3631922,BRA,South America
+162,Brazil,State of Rondônia,364,0,10,-10.943145,-62.8277863,BRA,South America
+163,Brazil,State of Piauí,331,0,18,-7.699278200000001,-42.5043787,BRA,South America
+164,Brazil,State of Acre,279,0,11,-9.0478679,-70.52649759999998,BRA,South America
+165,Brazil,State of Mato Grosso,250,0,9,-12.2115009,-55.5716547,BRA,South America
+166,Brazil,State of Mato Grosso do Sul,234,0,7,-19.5852564,-54.4794731,BRA,South America
+167,Brazil,State of Sergipe,159,0,9,-10.6743911,-37.3773519,BRA,South America
+168,Brazil,State of Tocantins,58,0,2,-10.8855129,-48.3716912,BRA,South America
+169,Cambodia,Sihanoukville,40,0,0,10.5045515,103.25784114285528,KHM,Asia
+170,Cambodia,Phnom Penh,28,0,0,11.568271,104.9224426,KHM,Asia
+171,Cambodia,Kampong Cham Province,16,0,0,11.9921855,105.4628346,KHM,Asia
+172,Cambodia,Battambang Province,8,0,0,13.0998526,103.1966659,KHM,Asia
+173,Cambodia,Siem Reap Province,7,0,0,13.355487,103.8608382,KHM,Asia
+174,Cambodia,Banteay Meanchey Province,4,0,0,13.589396100000002,102.9723093,KHM,Asia
+175,Cambodia,Kep Province,4,0,0,10.4827998,104.3113349,KHM,Asia
+176,Cambodia,Tbong Khmum Province,4,0,0,11.8914565,105.7756828,KHM,Asia
+177,Cambodia,Kampong Chhnang Province,3,0,0,12.2536026,104.6658389,KHM,Asia
+178,Cambodia,Kampot Province,2,0,0,10.6183061,104.1797339,KHM,Asia
+179,Cambodia,Kandal Province,2,0,0,10.9986692,106.1691459,KHM,Asia
+180,Cambodia,Koh Kong Province,2,0,0,11.4560302,103.122046,KHM,Asia
+181,Cambodia,Preah Vihear Province,2,0,0,13.65115365,105.25819111658414,KHM,Asia
+182,Canada,Quebec,24107,5342,1515,52.4760892,-71.8258668,CAN,North America
+183,Canada,Ontario,14432,8000,835,50.000678,-86.000977,CAN,North America
+184,Canada,Alberta,4480,1549,73,55.001251,-115.002136,CAN,North America
+185,Canada,British Columbia,1948,1137,100,55.001251,-125.002441,CAN,North America
+186,Canada,Nova Scotia,873,439,24,45.1960403,-63.1653789,CAN,North America
+187,Canada,Saskatchewan,353,288,4,55.5321257,-106.1412243,CAN,North America
+188,Canada,Manitoba,272,199,6,55.001251,-97.001038,CAN,North America
+189,Canada,Newfoundland and Labrador,258,219,3,53.82173270000001,-61.2295532,CAN,North America
+190,Canada,New Brunswick,118,111,0,46.500283,-66.75018299999999,CAN,North America
+191,Canada,Prince Edward Island,26,24,0,46.50354535,-63.59551713991449,CAN,North America
+192,Canada,Yukon,11,8,0,63.000147,-136.002502,CAN,North America
+193,Canada,Northwest Territories,5,5,0,65.00000039999999,-118.0,CAN,North America
+194,Canada,Nunavut,0,0,0,70.0000073,-90.0,CAN,North America
+195,Chile,Santiago Metropolitan Region,7496,0,91,-33.5739341,-70.62055179999999,CHL,South America
+196,Chile,Araucania,1216,0,29,-38.67101160000001,-72.25645759999998,CHL,South America
+197,Chile,Ñuble,731,0,14,-36.63315770000001,-71.9384821,CHL,South America
+198,Chile,Bio Bio,703,0,6,-37.3391407,-72.4106825,CHL,South America
+199,Chile,Magallanes and Chilean Antarctica,668,0,9,-53.35275179999999,-71.5547782,CHL,South America
+200,Chile,Los Lagos,473,0,8,-42.300844,-73.105387,CHL,South America
+201,Chile,Valparaíso,460,0,9,-33.0458456,-71.6196749,CHL,South America
+202,Chile,Antofagasta,443,0,4,-23.6041314,-69.0842783,CHL,South America
+203,Chile,Maule,354,0,11,-35.5972284,-71.48868,CHL,South America
+204,Chile,Arica y Parinacota,252,0,3,-18.5918514,-69.75860829999999,CHL,South America
+205,Chile,Los Ríos,178,0,3,-39.9742911,-72.667478,CHL,South America
+206,Chile,Tarapacá,156,0,1,-20.1636672,-69.5463448,CHL,South America
+207,Chile,O'Higgins,92,0,1,-48.47302585,-72.84749314466745,CHL,South America
+208,Chile,Coquimbo,73,0,0,-30.7546652,-70.9005536,CHL,South America
+209,Chile,Atacama,29,0,0,-27.5571783,-70.0156882,CHL,South America
+210,Chile,Aysén,7,0,0,-46.1434629,-74.36488694169806,CHL,South America
+211,China,Hubei,67803,64014,3212,31.15172525,112.87832224656044,CHN,Asia
+212,China,Guangdong Province,1532,1395,8,24.7443043,113.0814482,CHN,Asia
+213,China,Henan,1276,1252,22,34.0000001,113.9999999,CHN,Asia
+214,China,Zhejiang,1264,1230,1,29.0000001,119.9999999,CHN,Asia
+215,China,Hunan,1019,1014,4,27.999587800000004,112.009538,CHN,Asia
+216,China,Anhui,990,984,6,32.0,117.0,CHN,Asia
+217,China,Jiangxi,937,935,1,28.0,116.0,CHN,Asia
+218,China,Shandong,780,755,7,36.0000001,118.9999999,CHN,Asia
+219,China,Jiangsu,651,633,0,33.0000001,119.9999999,CHN,Asia
+220,China,Beijing,587,443,8,39.906217,116.3912757,CHN,Asia
+221,China,Chongqing,579,570,6,29.5585712,106.5492822,CHN,Asia
+222,China,Sichuan,559,540,3,30.5000001,102.4999999,CHN,Asia
+223,China,Shanghai,536,383,6,31.232275800000004,121.4692071,CHN,Asia
+224,China,Heilongjiang,524,469,13,48.00000470000001,127.999992,CHN,Asia
+225,China,Fujian,350,305,1,26.5450001,117.842778,CHN,Asia
+226,China,Hebei,327,310,6,39.0000001,116.0,CHN,Asia
+227,China,Shaanxi,256,246,3,36.0,109.0,CHN,Asia
+228,China,Guangxi,254,252,2,24.0,109.0,CHN,Asia
+229,China,Yunnan,184,172,2,25.0,102.0,CHN,Asia
+230,China,Tianjin,180,144,3,39.1235635,117.1980785,CHN,Asia
+231,China,Hainan,168,162,6,19.2000001,109.5999999,CHN,Asia
+232,China,Guizhou,147,144,2,27.0,107.0,CHN,Asia
+233,China,Liaoning,142,128,2,40.99751970000001,122.9955469,CHN,Asia
+234,China,Gansu,139,132,2,38.0000001,101.9999999,CHN,Asia
+235,China,Shanxi,138,133,0,37.0,112.0,CHN,Asia
+236,China,Inner Mongolia,118,74,1,43.2443242,114.3251664,CHN,Asia
+237,China,Jilin,98,92,1,42.9995032,125.9816054,CHN,Asia
+238,China,Xinjiang,76,73,3,41.7574769,87.16738423046895,CHN,Asia
+239,China,Ningxia,75,75,0,37.0000001,105.9999999,CHN,Asia
+240,China,Qinghai,18,18,0,35.40709525,95.95211573241954,CHN,Asia
+241,China,Tibet,1,1,0,31.89434315,87.07813712706509,CHN,Asia
+242,Croatia,City of Zagreb,462,250,15,45.79151065,15.98246722398631,HRV,Europe
+243,Croatia,Split-Dalmatia County,460,177,16,43.07361015,16.027989049469006,HRV,Europe
+244,Croatia,Krapina-Zagorje County,133,36,1,46.0983218,15.9377404,HRV,Europe
+245,Croatia,Zagreb County,127,47,3,45.7017634,16.2347136,HRV,Europe
+246,Croatia,Osijek-Baranja County,113,60,7,45.541111,18.4384615,HRV,Europe
+247,Croatia,Dubrovnik-Neretva County,105,38,6,42.7580845,17.3352326,HRV,Europe
+248,Croatia,Istria County,90,82,2,45.2098898,13.6822959,HRV,Europe
+249,Croatia,Zadar County,85,37,1,44.223288200000006,15.3739652,HRV,Europe
+250,Croatia,Šibenik-Knin County,83,37,1,43.8410419,16.022628,HRV,Europe
+251,Croatia,Primorje-Gorski Kotar County,82,35,1,45.4225937,14.6172032,HRV,Europe
+252,Croatia,Koprivnica-Križevci County,63,14,0,46.12020575,16.779842997977994,HRV,Europe
+253,Croatia,Varaždin County,50,30,0,46.2572752,16.2900851,HRV,Europe
+254,Croatia,Vukovar-Srijem County,39,10,0,45.2283407,18.8590442,HRV,Europe
+255,Croatia,Sisak-Moslavina County,34,17,0,45.3330101,16.49187075036225,HRV,Europe
+256,Croatia,Karlovac County,30,10,1,45.2826564,15.4190997,HRV,Europe
+257,Croatia,Brod-Posavina County,22,3,1,45.2444285,17.9232927,HRV,Europe
+258,Croatia,Lika-Senj County,20,1,0,44.6682563,15.3225776,HRV,Europe
+259,Croatia,Bjelovar-Bilogora County,12,6,0,45.7462142,16.9212335,HRV,Europe
+260,Croatia,Virovitica-Podravina County,9,1,0,45.7732751,17.5789161,HRV,Europe
+261,Croatia,Međimurje County,8,5,0,46.4232963,16.4661353,HRV,Europe
+262,Croatia,Požega-Slavonia County,3,3,0,45.43811510000001,17.5133687,HRV,Europe
+263,Dominican Republic,Distrito Nacional,1457,305,35,18.48525785,-69.92990811529472,DOM,North America
+264,Dominican Republic,Santo Domingo Province,1057,125,38,18.4801972,-69.942111,DOM,North America
+265,Dominican Republic,Santiago Province,719,84,43,19.4503932,-70.6909047,DOM,North America
+266,Dominican Republic,Duarte Province,557,72,74,19.7961218,-70.69147609999997,DOM,North America
+267,Dominican Republic,La Vega Province,414,36,7,19.2237411,-70.5284071,DOM,North America
+268,Dominican Republic,Puerto Plata Province,185,12,11,19.7893977,-70.6940515,DOM,North America
+269,Dominican Republic,Espaillat Province,162,22,5,18.4234077,-68.970927,DOM,North America
+270,Dominican Republic,Monseñor Nouel,162,12,3,18.8820257,-70.418098,DOM,North America
+271,Dominican Republic,Hermanas Mirabal Province,145,17,11,18.5024782,-69.82829140000001,DOM,North America
+272,Dominican Republic,San Cristóbal Province,138,6,4,18.417453100000003,-70.11033459999999,DOM,North America
+273,Dominican Republic,Sánchez Ramírez Province,138,3,6,-70.1448351,19.0176147,DOM,North America
+274,Dominican Republic,La Altagracia,109,23,1,18.5823788,-68.6587525,DOM,North America
+275,Dominican Republic,La Romana Province,97,8,2,18.4272786,-68.9734597,DOM,North America
+276,Dominican Republic,María Trinidad Sánchez Province,79,5,3,18.431132100000006,-69.0239872,DOM,North America
+277,Dominican Republic,San Pedro de Macorís Province,56,8,7,18.4601161,-69.3027395,DOM,North America
+278,Dominican Republic,San Juan Province,43,1,3,18.4775792,-69.9766214,DOM,North America
+279,Dominican Republic,Peravia Province,37,2,1,18.4927899,-69.993166,DOM,North America
+280,Dominican Republic,Barahona Province,35,5,1,18.2101889,-71.1012325,DOM,North America
+281,Dominican Republic,Valverde Province,32,3,2,18.4861819,-69.89126170000002,DOM,North America
+282,Dominican Republic,Azua Province,25,1,1,18.4532594,-70.73240109999998,DOM,North America
+283,Dominican Republic,Santiago Rodríguez Province,24,0,1,18.4745773,-69.8884978,DOM,North America
+284,Dominican Republic,Samaná Province,21,8,1,19.2055052,-69.3362252,DOM,North America
+285,Dominican Republic,Monte Plata Province,13,2,0,18.8100643,-69.78753540000001,DOM,North America
+286,Dominican Republic,Hato Mayor Province,11,0,2,18.7632502,-69.2571917,DOM,North America
+287,Dominican Republic,Baoruco Province,4,1,0,18.0766275,-71.0952214,DOM,North America
+288,Dominican Republic,El Seibo Province,4,0,0,18.7639305,-69.03729229999999,DOM,North America
+289,Dominican Republic,San José de Ocoa Province,4,0,2,18.546405,-70.50567029999998,DOM,North America
+290,Dominican Republic,Dajabón Province,3,1,0,19.550137600000006,-71.7039072,DOM,North America
+291,Dominican Republic,Pedernales Province,3,0,0,18.0431598,-71.7432093,DOM,North America
+292,Dominican Republic,Elías Piña Province,1,0,0,-71.69594790000002,18.9952542,DOM,North America
+293,Dominican Republic,Independencia Province,1,1,0,19.4530693,-70.7008841,DOM,North America
+294,Dominican Republic,Monte Cristi Province,1,0,0,19.848379,-71.64566529999998,DOM,North America
+295,Ecuador,Guayas,15365,0,242,-2.0,-80.0,ECU,South America
+296,Ecuador,Manabí Province,1869,0,44,-0.4,-80.3,ECU,South America
+297,Ecuador,Pichincha,1634,0,52,-0.0584893,-78.32843709999999,ECU,South America
+298,Ecuador,Los Ríos Province,668,0,19,-1.5586569,-79.7542606,ECU,South America
+299,Ecuador,El Oro,477,0,57,-3.5311093,-79.83332340000003,ECU,South America
+300,Ecuador,Azuay,449,0,11,-3.0524451,-79.2395135,ECU,South America
+301,Ecuador,Santa Elena Province,321,0,5,-2.088082,-80.51908093389802,ECU,South America
+302,Ecuador,Cañar Province,269,0,9,-2.4,-79.2,ECU,South America
+303,Ecuador,Chimborazo Province,219,0,26,-1.7511331,-78.633333,ECU,South America
+304,Ecuador,Loja,213,0,6,-4.0528506,-79.80534250000002,ECU,South America
+305,Ecuador,Santo Domingo de los Tsáchilas Province,197,0,14,-0.2558522,-79.18443772696759,ECU,South America
+306,Ecuador,Esmeraldas Province,195,0,7,1.058611,-78.968056,ECU,South America
+307,Ecuador,Tungurahua,152,0,9,-1.2765895,-78.4754667,ECU,South America
+308,Ecuador,Cotopaxi Province,109,0,11,-1.083333,-78.833333,ECU,South America
+309,Ecuador,Bolívar Province,105,0,7,-5.7559052,-78.4545442,ECU,South America
+310,Ecuador,Imbabura Province,97,0,8,0.75,-78.416667,ECU,South America
+311,Ecuador,Galápagos Islands,86,0,1,-0.62881505,-90.36387520223239,ECU,South America
+312,Ecuador,Carchi Province,59,0,3,0.933333,-78.5,ECU,South America
+313,Ecuador,Sucumbíos Province,55,0,1,0.166389,-76.711667,ECU,South America
+314,Ecuador,Morona-Santiago Province,48,0,0,-2.666667,-77.85,ECU,South America
+315,Ecuador,Zamora-Chinchipe Province,42,0,1,-4.184707100000002,-78.9364356,ECU,South America
+316,Ecuador,Pastaza Province,39,0,2,-1.47033055,-76.89132397657048,ECU,South America
+317,Ecuador,Orellana Province,31,0,0,-2.18254285,-79.8950218287101,ECU,South America
+318,Ecuador,Provincia de Napo,20,0,2,-1.8557374,-79.980994,ECU,South America
+319,Finland,Uusimaa,2630,0,0,60.2246684,25.12726308225769,FIN,Europe
+320,Finland,Southwest Finland,233,0,0,60.3059485,22.41442603089336,FIN,Europe
+321,Finland,Pirkanmaa,199,0,0,61.7171466,23.71571339560399,FIN,Europe
+322,Finland,Northern Savonia,118,0,0,27.530394841137646,63.0883598,FIN,Europe
+323,Finland,Northern Ostrobothnia,115,0,0,65.01776105,25.475309266121503,FIN,Europe
+324,Finland,Central Finland,114,0,0,62.53101395,25.50568325133171,FIN,Europe
+325,Finland,Lapland,68,0,0,26.728204479201413,67.69291045,FIN,Europe
+326,Finland,Tavastia Proper,66,0,0,24.153192009582572,60.93769605,FIN,Europe
+327,Finland,Päijänne Tavastia,65,0,0,61.1444259,25.687187045973182,FIN,Europe
+328,Finland,Kainuu,48,0,0,64.59873065,28.300198845857643,FIN,Europe
+329,Finland,Satakunta,48,0,0,61.59201665000001,21.77994448672716,FIN,Europe
+330,Finland,Ostrobothnia,45,0,0,62.96867215,21.36251426194388,FIN,Europe
+331,Finland,Southern Savonia,44,0,0,27.98820443747439,61.90173715,FIN,Europe
+332,Finland,Southern Ostrobothnia,36,0,0,24.50803078031766,60.66970185,FIN,Europe
+333,Finland,Kymenlaakso,33,0,0,60.7318529,27.08288396566525,FIN,Europe
+334,Finland,North Karelia,23,0,0,62.8014085,30.213455302117616,FIN,Europe
+335,Finland,South Karelia,14,0,0,61.26671405,28.405512513307876,FIN,Europe
+336,Finland,Central Ostrobothnia,13,0,0,63.6476557,24.111411271292845,FIN,Europe
+337,Germany,Bavaria,41070,0,1621,48.9467562,11.4038717,DEU,Europe
+338,Germany,North Rhine-Westphalia,31879,0,1131,51.4781796,7.5542336,DEU,Europe
+339,Germany,Baden-Württemberg,31043,0,1249,48.6296972,9.1949534,DEU,Europe
+340,Germany,Lower Saxony,9487,0,391,52.8398531,9.075962,DEU,Europe
+341,Germany,Hesse,7979,0,320,50.61185370000001,9.1909725,DEU,Europe
+342,Germany,Rhineland-Palatinate,5879,0,152,49.9531599,7.310646,DEU,Europe
+343,Germany,Berlin,5638,0,125,52.5170365,13.388859900000002,DEU,Europe
+344,Germany,Hamburg,4475,0,142,53.5437641,10.0099133,DEU,Europe
+345,Germany,Saxony,4458,0,147,50.92957979999999,13.4585052,DEU,Europe
+346,Germany,Brandenburg,2721,0,100,52.84554920000001,13.2461296,DEU,Europe
+347,Germany,Schleswig-Holstein,2638,0,98,54.1853998,9.8220089,DEU,Europe
+348,Germany,Saarland,2503,0,121,49.4173988,6.9805789,DEU,Europe
+349,Germany,Thuringia,2120,0,74,50.73331629999999,11.0747905,DEU,Europe
+350,Germany,Saxony-Anhalt,1515,0,36,51.908526,11.4939134,DEU,Europe
+351,Germany,Bremen,754,0,27,53.0758196,8.8071646,DEU,Europe
+352,Germany,Mecklenburg-Vorpommern,674,0,16,53.7735234,12.5755746,DEU,Europe
+353,Hungary,Budapest,18841,0,0,47.4983815,19.0404707,HUN,Europe
+354,Hungary,Pest County,5896,0,0,47.3715943,19.3452624,HUN,Europe
+355,Hungary,Fejér,2847,0,0,47.0939434,18.6088562,HUN,Europe
+356,Hungary,Gyor-Moson-Sopron,1397,0,0,47.6610134,17.3796437,HUN,Europe
+357,Hungary,Csongrád,1190,0,0,46.4515164,20.227760600000003,HUN,Europe
+358,Hungary,Szabolcs-Szatmár-Bereg,1001,0,0,48.0297821,22.0040108,HUN,Europe
+359,Hungary,Borsod-Abaúj-Zemplén,866,0,0,48.2397936,21.1353474,HUN,Europe
+360,Hungary,Veszprém,779,0,0,47.0928058,17.9140147,HUN,Europe
+361,Hungary,Komárom-Esztergom,771,0,0,47.6511599,18.2551911,HUN,Europe
+362,Hungary,Baranya,753,0,0,45.9714436,18.1669246,HUN,Europe
+363,Hungary,Zala County,711,0,0,46.6713343,16.889469199999994,HUN,Europe
+364,Hungary,Bács-Kiskun,543,0,0,46.5809294,19.5128532,HUN,Europe
+365,Hungary,Somogy County,508,0,0,46.439656,17.6212956,HUN,Europe
+366,Hungary,Hajdú-Bihar,460,0,0,47.4407848,21.4752281,HUN,Europe
+367,Hungary,Nógrád County,431,0,0,47.98736160000001,19.5472495,HUN,Europe
+368,Hungary,Jász-Nagykun-Szolnok,368,0,0,47.2971598,20.453178,HUN,Europe
+369,Hungary,Vas County,342,0,0,47.1371935,16.780898,HUN,Europe
+370,Hungary,Tolna County,337,0,0,46.488344700000006,18.5050005,HUN,Europe
+371,Hungary,Békés County,274,0,0,46.7862993,20.9820736,HUN,Europe
+372,Hungary,Heves County,241,0,0,47.7884409,20.1714412,HUN,Europe
+373,Iceland,Capital Region,1162,0,0,64.17271375,-21.56675754335205,ISL,Europe
+374,Iceland,Southern Region,172,0,0,64.1282428,-19.724859570144,ISL,Europe
+375,Iceland,Westfjords Region,95,0,0,-21.81272272456412,65.9044156,ISL,Europe
+376,Iceland,Southern Peninsula Region,77,0,0,-22.20220659202029,63.94134125,ISL,Europe
+377,Iceland,Northeastern Region,46,0,0,65.59269925,-17.26672345863144,ISL,Europe
+378,Iceland,Western Region,42,0,0,64.89592765,-22.15481901378846,ISL,Europe
+379,Iceland,Northwestern Region,35,0,0,65.46774135,-19.867358702153712,ISL,Europe
+380,Iceland,Eastern Region,8,0,0,64.86808500000001,-15.18809756721042,ISL,Europe
+381,India,Maharashtra,7628,0,323,19.531932,76.0554568,IND,Asia
+382,India,Gujarat,3071,0,133,22.41540825,72.03149703699282,IND,Asia
+383,India,Delhi,2625,0,54,28.6517178,77.22193879999998,IND,Asia
+384,India,Madhya Pradesh,2096,0,99,23.9699282,79.39486954625225,IND,Asia
+385,India,Rajasthan,2083,0,33,26.8105777,73.76845490000002,IND,Asia
+386,India,Uttar Pradesh,1843,0,29,27.1303344,80.859666,IND,Asia
+387,India,Tamil Nadu,1821,0,23,10.9094334,78.3665347,IND,Asia
+388,India,Andhra Pradesh,1097,0,31,15.9240905,80.1863809,IND,Asia
+389,India,Telangana,991,0,26,17.8495919,79.1151663,IND,Asia
+390,India,West Bengal,611,0,18,22.9964948,87.6855882,IND,Asia
+391,India,Karnataka,501,0,18,14.5203896,75.7223521,IND,Asia
+392,India,Jammu and Kashmir,494,0,6,34.0476564,76.7972892,IND,Asia
+393,India,Kerala,458,0,4,10.3528744,76.5120396,IND,Asia
+394,India,Punjab,298,0,17,30.929321100000006,75.5004841,IND,Asia
+395,India,Haryana,289,0,3,29.0,76.0,IND,Asia
+396,India,Bihar,251,0,2,25.6440845,85.906508,IND,Asia
+397,India,Odisha,103,0,1,20.5431241,84.6897321,IND,Asia
+398,India,Jharkhand,68,0,3,23.4559809,85.2557301,IND,Asia
+399,India,Uttarakhand,50,0,0,30.09199355,79.32176659343018,IND,Asia
+400,India,Himachal Pradesh,40,0,1,31.81676015,77.34932051968858,IND,Asia
+401,India,Chhattisgarh,37,0,0,21.6637359,81.84063509999999,IND,Asia
+402,India,Assam,36,0,1,26.4073841,93.2551303,IND,Asia
+403,India,Andaman and Nicobar Islands,33,0,0,10.2188344,92.5771329,IND,Asia
+404,India,Chandigarh,30,0,0,30.7194022,76.7646552,IND,Asia
+405,India,Ladakh,20,0,0,33.9456407,77.6568576,IND,Asia
+406,India,Meghalaya,12,0,1,25.5379432,91.2999102,IND,Asia
+407,India,Goa,7,0,0,15.3004543,74.08551340000002,IND,Asia
+408,India,Puducherry,7,0,0,11.934056800000002,79.83064470000002,IND,Asia
+409,India,Manipur,2,0,0,24.7208818,93.9229386,IND,Asia
+410,India,Tripura,2,0,0,23.7750823,91.7025091,IND,Asia
+411,India,Arunachal Pradesh,1,0,0,27.6891712,96.4597226,IND,Asia
+412,India,Mizoram,1,0,0,23.2146169,92.8687612,IND,Asia
+413,India,Nagaland,1,0,0,26.1630556,94.5884911,IND,Asia
+414,Indonesia,Jakarta,3869,337,367,-6.1753942,106.827183,IDN,Asia
+415,Indonesia,West Java,951,96,78,-6.889190400000001,107.6404716,IDN,Asia
+416,Indonesia,East Java,796,140,88,-7.6977397,112.4914199,IDN,Asia
+417,Indonesia,Central Java,666,88,58,-5.6259648,110.37164897312937,IDN,Asia
+418,Indonesia,South Sulawesi,440,106,37,-3.6446718,119.9471906,IDN,Asia
+419,Indonesia,Banten,382,33,40,-6.47800285,105.54102849016589,IDN,Asia
+420,Indonesia,West Nusa Tenggara,206,22,4,-8.7892855,117.146169,IDN,Asia
+421,Indonesia,Bali,194,81,4,-8.3304977,115.0906401,IDN,Asia
+422,Indonesia,Papua,151,32,6,-4.11501855,137.9966136,IDN,Asia
+423,Indonesia,South Kalimantan,150,10,6,-2.9285686,115.3700718,IDN,Asia
+424,Indonesia,South Sumatra,129,18,3,-3.1266842,104.0930554,IDN,Asia
+425,Indonesia,West Sumatra,121,23,14,-1.33589025,100.07222762395328,IDN,Asia
+426,Indonesia,Central Kalimantan,112,10,5,-1.499583,113.2903307,IDN,Asia
+427,Indonesia,North Sumatra,111,21,12,2.1923519,99.3812201,IDN,Asia
+428,Indonesia,East Kalimantan,107,12,1,0.7884397,116.2419977,IDN,Asia
+429,Indonesia,North Kalimantan,90,2,1,3.0235817000000003,116.20493059999998,IDN,Asia
+430,Indonesia,Riau Islands,86,9,8,-0.1547846,104.5803745,IDN,Asia
+431,Indonesia,Special Region of Yogyakarta,83,37,7,-7.977838399999999,110.36722565020223,IDN,Asia
+432,Indonesia,West Kalimantan,51,7,3,-0.1322387,111.09689009999998,IDN,Asia
+433,Indonesia,South East Sulawesi,45,6,2,-3.5491199,121.7279646,IDN,Asia
+434,Indonesia,Lampung,42,10,5,-4.8555039,105.0272986,IDN,Asia
+435,Indonesia,North Sulawesi,40,11,3,0.6555692,124.090151,IDN,Asia
+436,Indonesia,Riau,39,14,4,0.94000845,101.6556177091926,IDN,Asia
+437,Indonesia,Central Sulawesi,36,3,3,-1.6937786,120.8088555,IDN,Asia
+438,Indonesia,West Sulawesi,35,1,1,-2.4974546,119.3918955,IDN,Asia
+439,Indonesia,Jambi,32,1,0,-1.611572,102.779699,IDN,Asia
+440,Indonesia,North Maluku,26,2,0,0.6301215,127.9720219,IDN,Asia
+441,Indonesia,Maluku,22,11,0,-5.358051799999998,130.35838229206553,IDN,Asia
+442,Indonesia,West Papua,16,0,1,-1.3842356000000002,132.902528,IDN,Asia
+443,Indonesia,Gorontalo,14,0,1,0.7186174,122.4555927,IDN,Asia
+444,Indonesia,Bangka Belitung Islands,10,2,1,-2.5329040000000003,107.57571366281124,IDN,Asia
+445,Indonesia,Aceh,9,4,1,4.368549099999999,97.02530240000002,IDN,Asia
+446,Indonesia,Bengkulu,8,1,1,-3.5186763,102.5359834,IDN,Asia
+447,Indonesia,East Nusa Tenggara,1,1,0,-8.5656787,120.6978581,IDN,Asia
+448,Iran,Tehran Province,5098,0,0,35.50219455,51.32690982349512,IRN,Asia
+449,Iran,Isfahan Province,1979,0,0,33.196733,52.504026,IRN,Asia
+450,Iran,Mazandaran Province,1700,0,0,36.3159159,51.8968597,IRN,Asia
+451,Iran,Gilan Province,1191,0,0,37.5115476,49.35544298497066,IRN,Asia
+452,Iran,Qom Province,1178,0,0,34.7191915,51.0122844,IRN,Asia
+453,Iran,Alborz Province,1177,0,0,35.9413239,50.7884216,IRN,Asia
+454,Iran,Markazi Province,882,0,0,34.5302705,49.7864561,IRN,Asia
+455,Iran,Razavi Khorasan Province,858,0,0,32.6475314,54.56435160000001,IRN,Asia
+456,Iran,East Azerbaijan Province,813,0,0,37.9211202,46.68215170000001,IRN,Asia
+457,Iran,Yazd Province,725,0,0,32.2452686,55.105172,IRN,Asia
+458,Iran,Qazvin Province,669,0,0,36.01562910000001,49.8398161,IRN,Asia
+459,Iran,Semnan Province,645,0,0,35.3843145,54.6209302,IRN,Asia
+460,Iran,Fars Province,505,0,0,29.299051,53.218456,IRN,Asia
+461,Iran,Lorestan Province,476,0,0,33.5372643,48.24351970000001,IRN,Asia
+462,Iran,Khuzestan Province,444,0,0,31.5535141,49.0077168,IRN,Asia
+463,Iran,West Azerbaijan Province,395,0,0,37.7416484,45.0207638,IRN,Asia
+464,Iran,Zanjan Province,394,0,0,36.515854,48.4777616,IRN,Asia
+465,Iran,Golestan Province,391,0,0,37.1984436,55.070672,IRN,Asia
+466,Iran,Ardabil Province,289,0,0,38.45839829999999,47.9313001,IRN,Asia
+467,Iran,Kermanshah Province,243,0,0,34.378974400000004,46.7010122,IRN,Asia
+468,Iran,Kurdistan Province,238,0,0,35.672803,47.0124376,IRN,Asia
+469,Iran,Ilam Province,183,0,0,33.1545696,46.7576343,IRN,Asia
+470,Iran,South Khorasan Province,178,0,0,33.129577000000005,58.1065069,IRN,Asia
+471,Iran,Hamadan Province,175,0,0,34.973321,48.6555779,IRN,Asia
+472,Iran,Kerman Province,169,0,0,29.571858,57.301047,IRN,Asia
+473,Iran,North Khorasan Province,165,0,0,37.5378855,56.9526137,IRN,Asia
+474,Iran,Hormozgan Province,148,0,0,27.7198095,56.335807,IRN,Asia
+475,Iran,Sistan and Baluchestan Province,134,0,0,28.1292481,60.8236848,IRN,Asia
+476,Iran,Kohgiluyeh and Boyer-Ahmad Province,73,0,0,30.65296915,51.607204522835076,IRN,Asia
+477,Iran,Chaharmahal and Bakhtiari Province,68,0,0,50.685709,32.0163307,IRN,Asia
+478,Iran,Bushehr Province,55,0,0,28.893664500000003,51.3204877,IRN,Asia
+479,Iraq,Baghdad Governorate,384,241,30,33.0112777,44.3849679,IRQ,Asia
+480,Iraq,Najaf Governorate,284,238,5,44.3299926,32.0010227,IRQ,Asia
+481,Iraq,Basra Governorate,281,129,17,30.5132105,47.8307605,IRQ,Asia
+482,Iraq,Erbil Governorate,169,134,0,44.166182011804885,36.37662015,IRQ,Asia
+483,Iraq,Sulaymaniyah Governorate,136,127,5,35.56497095,45.37695234981869,IRQ,Asia
+484,Iraq,Karbala Governorate,86,75,6,16.313895000000002,43.293572,IRQ,Asia
+485,Iraq,Dhi Qar Governorate,54,26,3,46.3068347,31.2857941,IRQ,Asia
+486,Iraq,Al Muthanna Governorate,35,12,1,45.0188363,30.501576300000004,IRQ,Asia
+487,Iraq,Wasit Governorate,34,26,2,45.6848009,32.6944827,IRQ,Asia
+488,Iraq,Kirkuk Governorate,31,20,2,35.46032085,44.38263033213807,IRQ,Asia
+489,Iraq,Halabja,21,2,0,35.1792062,45.98736829999999,IRQ,Asia
+490,Iraq,Diyala Governorate,18,14,3,45.1046224,34.0228719,IRQ,Asia
+491,Iraq,Duhok Governorate,18,15,0,36.8649658,42.9997041,IRQ,Asia
+492,Iraq,Babylon Governorate,16,7,5,32.5021687,44.4170864,IRQ,Asia
+493,Iraq,Al-Qādisiyyah Governorate,12,6,1,29.803611,30.913889,IRQ,Asia
+494,Iraq,Maysan Governorate,9,2,2,31.8526254,47.14443729999999,IRQ,Asia
+495,Iraq,Nineveh Governorate,6,6,0,43.16216471288615,36.3564339,IRQ,Asia
+496,Iraq,Saladin Governorate,3,1,0,34.449783350000004,43.79360485008835,IRQ,Asia
+497,Iraq,Al Anbar Governorate,2,2,0,41.6093983,32.788944300000004,IRQ,Asia
+498,Italy,Lombardy,72889,0,13325,45.6209,9.768892999999998,ITA,Europe
+499,Italy,Piedmont,24832,0,2823,44.7605629,8.2998538,ITA,Europe
+500,Italy,Emilia-Romagna,24450,0,3386,44.525696,11.039437,ITA,Europe
+501,Italy,Veneto,17471,0,1315,45.6476663,11.8665254,ITA,Europe
+502,Italy,Tuscany,9147,0,778,43.4586541,11.1389204,ITA,Europe
+503,Italy,Liguria,7508,0,1114,44.4777617,8.7026296,ITA,Europe
+504,Italy,Lazio,6309,0,389,41.9808038,12.766231199999998,ITA,Europe
+505,Italy,Marche,6111,0,879,43.3458388,13.1415872,ITA,Europe
+506,Italy,Campania,4331,0,345,40.860672,14.843984,ITA,Europe
+507,Italy,Apulia,3948,0,399,40.9842539,16.621002700000002,ITA,Europe
+508,Italy,Trentino,3894,0,405,46.102817,11.129543099871787,ITA,Europe
+509,Italy,Sicily,3057,0,228,37.587794,14.155048,ITA,Europe
+510,Italy,Friuli-Venezia Giulia,2917,0,264,46.151042,13.055904,ITA,Europe
+511,Italy,Abruzzo,2859,0,295,42.227681,13.854983,ITA,Europe
+512,Italy,South Tyrol,2481,0,269,46.65594215,11.229637264169462,ITA,Europe
+513,Italy,Umbria,1368,0,64,42.965916,12.490236,ITA,Europe
+514,Italy,Sardinia,1280,0,109,40.06160405,9.097753806553065,ITA,Europe
+515,Italy,Calabria,1107,0,80,39.0565974,16.5249864,ITA,Europe
+516,Italy,Aosta,1106,0,132,45.7370885,7.3196649,ITA,Europe
+517,Italy,Basilicata,366,0,25,40.500571,16.081953,ITA,Europe
+518,Italy,Molise,296,0,21,41.684672,14.595614,ITA,Europe
+519,Japan,Tokyo,3917,0,100,35.68283870000001,139.7594549,JPN,Asia
+520,Japan,Osaka,1491,0,30,34.6198813,135.49035700000002,JPN,Asia
+521,Japan,Kanagawa,954,0,26,35.4342935,139.374753,JPN,Asia
+522,Japan,Saitama,818,0,25,35.9754168,139.4160114,JPN,Asia
+523,Japan,Chiba,810,0,100,35.60998499999999,140.118126,JPN,Asia
+524,Japan,Hyogo,629,0,24,34.914934,134.86066599999998,JPN,Asia
+525,Japan,Hokkaido,615,0,25,43.4603175,143.33071579283663,JPN,Asia
+526,Japan,Fukuoka,612,0,16,33.6251241,130.6180016,JPN,Asia
+527,Japan,Aichi,477,0,31,34.9991645,137.254574,JPN,Asia
+528,Japan,Kyoto,294,0,30,35.021041,135.7556075,JPN,Asia
+529,Japan,Ishikawa,235,0,6,36.9888678,136.8163563,JPN,Asia
+530,Japan,Toyama,178,0,5,36.6468015,137.2183531,JPN,Asia
+531,Japan,Nagasaki,165,0,1,33.1154683,129.78743390000002,JPN,Asia
+532,Japan,Ibaraki,161,0,26,36.2869536,140.4703384,JPN,Asia
+533,Japan,Gifu,149,0,6,35.78674489999999,137.04607769999998,JPN,Asia
+534,Japan,Hiroshima,148,0,2,34.391605799999994,132.4518156,JPN,Asia
+535,Japan,Gunma,141,0,14,36.52198,139.03348300000002,JPN,Asia
+536,Japan,Okinawa,137,0,4,26.570775399999995,128.0255901,JPN,Asia
+537,Japan,Fukui,121,0,6,35.9263502,136.60681269999998,JPN,Asia
+538,Japan,Shiga,94,0,1,35.24715399999999,136.109385,JPN,Asia
+539,Japan,Miyagi,85,0,0,38.3880155,140.9761025,JPN,Asia
+540,Japan,Nara,76,0,8,34.2963089,135.88168190000002,JPN,Asia
+541,Japan,Kochi,73,0,3,33.6569018,133.56062409999998,JPN,Asia
+542,Japan,Niigata,70,0,5,37.6452283,138.7669125,JPN,Asia
+543,Japan,Fukushima,69,0,0,37.75454000000001,140.4592144,JPN,Asia
+544,Japan,Nagano,66,0,0,36.1143945,138.0319015,JPN,Asia
+545,Japan,Yamagata,66,0,0,38.4746705,140.08323700000003,JPN,Asia
+546,Japan,Shizuoka,63,0,31,34.933248799999994,138.0955398,JPN,Asia
+547,Japan,Oita,60,0,16,33.1819875,131.42702169999998,JPN,Asia
+548,Japan,Wakayama,58,0,1,33.8070292,135.5930743,JPN,Asia
+549,Japan,Tochigi,54,0,0,36.3824655,139.73414350000002,JPN,Asia
+550,Japan,Yamanashi,52,0,0,35.6399328,138.63804950000002,JPN,Asia
+551,Japan,Ehime,47,0,3,33.601364600000004,132.8185275,JPN,Asia
+552,Japan,Kumamoto,46,0,1,32.6450475,130.6341345,JPN,Asia
+553,Japan,Mie,45,0,1,34.7339685,136.5154489,JPN,Asia
+554,Japan,Saga,37,0,1,33.2185408,130.1296585,JPN,Asia
+555,Japan,Yamaguchi,31,0,0,34.2379614,131.58738449999998,JPN,Asia
+556,Japan,Kagawa,28,0,0,34.2480104,134.0586579,JPN,Asia
+557,Japan,Aomori,22,0,0,40.886943,140.59012099999998,JPN,Asia
+558,Japan,Okayama,22,0,0,34.8581334,133.7759256,JPN,Asia
+559,Japan,Shimane,22,0,2,34.94182120000001,132.53743899999998,JPN,Asia
+560,Japan,Miyazaki,17,0,0,32.097681,131.29454199999998,JPN,Asia
+561,Japan,Akita,16,0,0,39.68988020000001,140.342608,JPN,Asia
+562,Japan,Kagoshima,10,0,4,31.521587,130.5474077,JPN,Asia
+563,Japan,Tokushima,5,0,3,33.919641799999994,134.25096340000002,JPN,Asia
+564,Japan,Tottori,3,0,0,35.3555075,133.8678525,JPN,Asia
+565,Japan,Iwate,0,0,0,39.5713763,141.4253574,JPN,Asia
+566,Mexico,Mexico City,3764,196,307,19.4326296,-99.1331785,MEX,North America
+567,Mexico,State of Mexico,2238,102,110,19.4839446,-99.6899716,MEX,North America
+568,Mexico,Baja California,1197,31,162,30.0338923,-115.1425107,MEX,North America
+569,Mexico,Sinaloa,708,12,98,25.0000001,-107.5000001,MEX,North America
+570,Mexico,Tabasco,707,36,86,17.95078635,-92.48312213241395,MEX,North America
+571,Mexico,Quintana Roo,550,38,76,19.6666671,-88.5000001,MEX,North America
+572,Mexico,Puebla,483,46,65,18.833333,-98.0,MEX,North America
+573,Mexico,Baja California Sur,374,6,12,25.5818014,-111.5706164,MEX,North America
+574,Mexico,Coahuila,340,38,33,27.3333331,-102.0000001,MEX,North America
+575,Mexico,Veracruz,319,10,23,19.333333,-96.666667,MEX,North America
+576,Mexico,Yucatan,302,5,19,20.6845957,-88.87556690000002,MEX,North America
+577,Mexico,Jalisco,271,87,23,20.3333331,-103.6666671,MEX,North America
+578,Mexico,Nuevo Leon,271,66,9,26.2384363,-99.8873,MEX,North America
+579,Mexico,Chihuahua,240,3,57,28.5000001,-106.0000001,MEX,North America
+580,Mexico,Tamaulipas,216,2,11,23.9891553,-98.7026825,MEX,North America
+581,Mexico,Guanajuato,198,44,19,20.987699600000006,-101.0,MEX,North America
+582,Mexico,Michoacán,193,8,28,19.207098,-101.878113,MEX,North America
+583,Mexico,Guerrero,177,4,29,17.666667,-100.0,MEX,North America
+584,Mexico,Morelos,169,4,25,18.75,-99.0,MEX,North America
+585,Mexico,Hidalgo,165,11,17,20.5,-99.0,MEX,North America
+586,Mexico,Sonora,149,4,18,29.3333331,-110.66666709999998,MEX,North America
+587,Mexico,Aguascalientes,147,44,2,22.0000001,-102.5000001,MEX,North America
+588,Mexico,Tlaxcala,127,1,13,19.416667,-98.166667,MEX,North America
+589,Mexico,Chiapas,118,2,6,16.500000099999998,-92.5000001,MEX,North America
+590,Mexico,Querétaro,109,15,7,20.854257500000006,-99.84756,MEX,North America
+591,Mexico,Oaxaca,104,9,13,17.0,-96.5,MEX,North America
+592,Mexico,San Luis Potosi,75,23,6,22.5000001,-100.5000001,MEX,North America
+593,Mexico,Campeche,70,1,11,19.32920555,-89.9439148263377,MEX,North America
+594,Mexico,Nayarit,59,2,7,21.8438765,-104.87148535201122,MEX,North America
+595,Mexico,Zacatecas,58,1,4,23.0000001,-103.0000001,MEX,North America
+596,Mexico,Durango,42,3,6,24.833333,-104.833333,MEX,North America
+597,Mexico,Colima,24,7,2,19.166667,-104.0,MEX,North America
+598,Moldova,Chisinau,907,220,16,47.0244707,28.8322534,MDA,Europe
+599,Moldova,Transnistria,318,1,15,46.9905668,29.4772511,MDA,Europe
+600,Moldova,Soroca District,250,87,6,48.164075200000006,28.16168004981313,MDA,Europe
+601,Moldova,Ștefan Vodă District,238,94,6,46.51599829999999,29.66029450049081,MDA,Europe
+602,Moldova,Glodeni District,168,9,11,47.72743085000001,27.484220580699677,MDA,Europe
+603,Moldova,Edineţ District,125,6,1,48.14641075,27.27253703338933,MDA,Europe
+604,Moldova,Fălești District,122,20,3,47.5751709,27.682729901345876,MDA,Europe
+605,Moldova,Căușeni District,99,11,1,46.60450150000001,29.260402050614534,MDA,Europe
+606,Moldova,Cahul District,98,25,2,45.81213505,28.29199196636291,MDA,Europe
+607,Moldova,Orhei District,95,23,3,47.40012725,28.76154797180219,MDA,Europe
+608,Moldova,Gagauzia,92,2,2,46.203052,28.76157903735702,MDA,Europe
+609,Moldova,Ialoveni District,60,26,0,46.8661989,28.81399456278325,MDA,Europe
+610,Moldova,Balti,59,13,3,47.7620065,27.9286221,MDA,Europe
+611,Moldova,Hîncești District,51,29,2,46.84686165,28.417482104020497,MDA,Europe
+612,Moldova,Strășeni District,49,7,0,47.161641,28.54285889249443,MDA,Europe
+613,Moldova,Taraclia District,43,3,0,45.8973216,28.622919484479127,MDA,Europe
+614,Moldova,Criuleni District,34,5,1,47.20655525,28.984104915582105,MDA,Europe
+615,Moldova,Sîngerei District,34,10,1,47.6712726,28.1804580202084,MDA,Europe
+616,Moldova,Florești District,31,3,0,47.88059905,28.27124083031211,MDA,Europe
+617,Moldova,Bender,28,2,2,46.8218177,29.4819196,MDA,Europe
+618,Moldova,Rezina District,25,6,0,47.70398105,28.796710988342795,MDA,Europe
+619,Moldova,Anenii Noi,22,10,1,46.8815631,29.2309122,MDA,Europe
+620,Moldova,Dubăsari District,21,2,0,47.3167454,29.07816444203909,MDA,Europe
+621,Moldova,Telenești District,20,3,1,47.5666994,28.52513718945919,MDA,Europe
+622,Moldova,Dondușeni District,19,1,1,48.21650555,27.60167284295917,MDA,Europe
+623,Moldova,Rîșcani District,18,4,1,47.9241151,27.45224203274806,MDA,Europe
+624,Moldova,Cantemir District,16,7,0,46.2501064,28.346840370909433,MDA,Europe
+625,Moldova,Ungheni District,16,3,0,47.2568165,27.89092403943809,MDA,Europe
+626,Moldova,Briceni District,10,4,1,48.278037,26.94802250324881,MDA,Europe
+627,Moldova,Călărași District,10,2,0,47.30280225,28.307102604154743,MDA,Europe
+628,Moldova,Nisporeni District,9,8,0,47.08201635,28.16316572517789,MDA,Europe
+629,Moldova,Drochia District,8,2,0,48.03384025,27.829074153315965,MDA,Europe
+630,Moldova,Cimișlia District,4,3,0,46.59215145,28.811140574534697,MDA,Europe
+631,Moldova,Leova District,4,1,0,46.52170255,28.401546299526768,MDA,Europe
+632,Moldova,Ocnița District,4,1,0,48.35342585,27.39539424010169,MDA,Europe
+633,Moldova,Basarabeasca District,2,1,0,46.39813565,28.90248797561072,MDA,Europe
+634,Moldova,Șoldănești District,1,0,0,47.844719299999994,28.665898622950763,MDA,Europe
+635,Montenegro,Podgorica Municipality,163,62,5,42.44594995,19.2098386556408,MNE,Europe
+636,Montenegro,Tuzi Urban municipality,37,30,0,19.35652623008785,42.37916720000001,MNE,Europe
+637,Montenegro,Nikšić Municipality,34,16,0,42.8367885,18.851992115152346,MNE,Europe
+638,Montenegro,Bar Municipality,23,11,0,42.13654685,19.202528815662266,MNE,Europe
+639,Montenegro,Ulcinj Municipality,22,7,0,41.96493820000001,19.315483634344226,MNE,Europe
+640,Montenegro,Andrijevica Municipality,7,7,0,42.7219982,19.754573998598595,MNE,Europe
+641,Montenegro,Budva Municipality,7,4,0,42.25925725000001,18.92013066455736,MNE,Europe
+642,Montenegro,Plav Municipality,7,0,1,42.6087914,19.965122024931137,MNE,Europe
+643,Montenegro,Bijelo Polje Municipality,6,6,0,43.078747899999996,19.692087263269595,MNE,Europe
+644,Montenegro,Herceg Novi Municipality,6,4,1,42.50423195,18.543928701577233,MNE,Europe
+645,Montenegro,Danilovgrad Municipality,3,3,0,42.6120612,19.100779698394014,MNE,Europe
+646,Montenegro,Gusinje Municipality,3,0,0,42.548086850000004,19.823384624409236,MNE,Europe
+647,Montenegro,Tivat Municipality,3,3,0,42.42015120000001,18.71982789464285,MNE,Europe
+648,Morocco,Casablanca-Settat,1068,0,43,33.2627128,-7.963902799999999,MAR,Africa
+649,Morocco,Marrakesh-Safi,824,0,42,31.6390337,-8.0043887,MAR,Africa
+650,Morocco,Tangier-Tétouan-Al Hoceima,529,0,17,35.202941,-5.5510167,MAR,Africa
+651,Morocco,Fez-Meknès,515,0,24,33.8333136,-4.8556382000000005,MAR,Africa
+652,Morocco,Drâa-Tafilalet,493,0,3,31.183543199999995,-5.1395434999999985,MAR,Africa
+653,Morocco,Rabat-Salé-Kénitra,304,0,11,33.920433200000005,-6.3676093,MAR,Africa
+654,Morocco,Oriental,175,0,8,33.320213800000005,-2.4238471,MAR,Africa
+655,Morocco,Béni Mellal-Khenifra,78,0,6,32.6407498,-6.207105,MAR,Africa
+656,Morocco,Souss-Massa,50,0,5,30.187722,-8.6322498,MAR,Africa
+657,Morocco,Guelmim-Oued Noun,23,0,0,28.5273703,-10.0315515,MAR,Africa
+658,Morocco,Laâyoune-Sakia El Hamra,4,0,0,-12.9766773,26.7300936,MAR,Africa
+659,Morocco,Oued Ed-Dahab-Lagouira,2,0,0,23.6989172,-15.9310551,MAR,Africa
+660,Nigeria,Lagos,731,128,19,6.4550575,3.3941795,NGA,Africa
+661,Nigeria,Federal Capital Territory,141,35,3,8.831122800000003,7.172467299999999,NGA,Africa
+662,Nigeria,Kano,77,0,1,11.894838900000002,8.5364136,NGA,Africa
+663,Nigeria,Gombe,35,0,0,10.38301,11.206567,NGA,Africa
+664,Nigeria,Ogun State,35,5,1,7.139575999999999,3.3450438,NGA,Africa
+665,Nigeria,Osun,34,18,2,7.548404700000002,4.4978307,NGA,Africa
+666,Nigeria,Borno,30,0,2,12.1875392,13.308003400000002,NGA,Africa
+667,Nigeria,Katsina,30,4,2,12.5630825,7.620706299999998,NGA,Africa
+668,Nigeria,Edo,25,8,3,6.607657499999998,5.972271299999999,NGA,Africa
+669,Nigeria,Oyo,21,9,2,8.215124900000001,3.5642897,NGA,Africa
+670,Nigeria,Kaduna,15,6,0,10.3825318,7.8533225999999985,NGA,Africa
+671,Nigeria,Bauchi,14,6,0,10.6228284,10.0287754,NGA,Africa
+672,Nigeria,Akwa Ibom,12,9,1,4.9408638,7.841226700000001,NGA,Africa
+673,Nigeria,Kwara,11,2,0,8.8367891,4.6688487,NGA,Africa
+674,Nigeria,Sokoto,10,0,0,13.0611195,5.3152203,NGA,Africa
+675,Nigeria,Ekiti,8,2,1,7.736891,5.2738326,NGA,Africa
+676,Nigeria,Ondo,8,2,0,7.0209686,5.0567477,NGA,Africa
+677,Nigeria,Delta,6,0,1,5.5273061,6.1784167000000005,NGA,Africa
+678,Nigeria,Rivers,6,2,2,4.8416028,6.8604088,NGA,Africa
+679,Nigeria,Taraba,6,0,0,8.0141334,10.7376336,NGA,Africa
+680,Nigeria,Abia,2,0,0,5.4540953000000005,7.5153070999999985,NGA,Africa
+681,Nigeria,Enugu,2,2,0,6.5536094,7.4143061,NGA,Africa
+682,Nigeria,Jigawa,2,0,0,12.3252362,9.5103296,NGA,Africa
+683,Nigeria,Niger,2,0,0,9.932608300000002,5.6511087999999985,NGA,Africa
+684,Nigeria,Zamfara,2,0,0,12.0078998,6.4191432,NGA,Africa
+685,Nigeria,Adamawa,1,0,0,9.5129772,12.3881887,NGA,Africa
+686,Nigeria,Anambra,1,0,0,6.2183136,6.953184200000001,NGA,Africa
+687,Nigeria,Bayelsa,1,0,0,4.7629786,6.028898,NGA,Africa
+688,Nigeria,Benue,1,0,0,8.777287699999999,7.3505747,NGA,Africa
+689,Nigeria,Ebonyi,1,0,0,6.1996918,8.0348906,NGA,Africa
+690,Nigeria,Imo,1,0,0,5.5859456,7.0669651,NGA,Africa
+691,Nigeria,Kebbi,1,0,0,4.1074545,11.4167574,NGA,Africa
+692,Nigeria,Plateau,1,0,0,9.0583446,9.6826289,NGA,Africa
+693,Norway,Oslo,2250,0,0,59.9133301,10.7389701,NOR,Europe
+694,Norway,Viken,1905,0,0,59.9263265,9.904234519577857,NOR,Europe
+695,Norway,Vestland,758,0,0,60.9291011,6.107886941976156,NOR,Europe
+696,Norway,Innlandet,461,0,0,61.26810555,10.485458802304304,NOR,Europe
+697,Norway,Rogaland,411,0,0,58.93631375,5.805878643040238,NOR,Europe
+698,Norway,Trøndelag,402,0,0,63.87759235,10.195050547141092,NOR,Europe
+699,Norway,Agder,275,0,0,58.71944225,8.034963534558171,NOR,Europe
+700,Norway,Vestfold og Telemark,255,0,0,59.39626765,9.061898163187935,NOR,Europe
+701,Norway,Troms og Finnmark,223,0,0,69.86993469999999,21.827278548625912,NOR,Europe
+702,Norway,Møre og Romsdal,114,0,0,62.8452777,7.518194072637362,NOR,Europe
+703,Norway,Nordland,106,0,0,67.27564050000001,13.862360639913616,NOR,Europe
+704,Peru,Lima Region,17884,0,0,-4.594056,-81.26044940000001,PER,South America
+705,Peru,Callao Region,2615,0,0,-77.1095687739774,-12.0089367,PER,South America
+706,Peru,Lambayeque,1602,0,0,-6.3333330000000005,-80.0,PER,South America
+707,Peru,Piura,790,0,0,-5.0,-80.333333,PER,South America
+708,Peru,Loreto,786,0,0,-5.0,-75.0,PER,South America
+709,Peru,Ancash,506,0,0,-9.5,-77.75,PER,South America
+710,Peru,La Libertad,503,0,0,-8.0,-78.5,PER,South America
+711,Peru,Arequipa,396,0,0,-16.3988667,-71.53696070000002,PER,South America
+712,Peru,Ucayali,349,0,0,-9.0,-73.5,PER,South America
+713,Peru,Ica,284,0,0,-14.338610999999998,-75.648333,PER,South America
+714,Peru,Junin,284,0,0,-11.5,-75.0,PER,South America
+715,Peru,Tumbes,250,0,0,-3.833333,-80.5,PER,South America
+716,Peru,Cusco,182,0,0,-13.5170887,-71.97853559999999,PER,South America
+717,Peru,Huanuco,167,0,0,-9.5,-75.833333,PER,South America
+718,Peru,San Martin,151,0,0,-7.0,-76.833333,PER,South America
+719,Peru,Cajamarca,128,0,0,-6.25,-78.833333,PER,South America
+720,Peru,Madre de Dios,94,0,0,-12.0,-70.25,PER,South America
+721,Peru,Moquegua,92,0,0,-16.833333,-70.916667,PER,South America
+722,Peru,Amazonas,78,0,0,-5.0,-78.0,PER,South America
+723,Peru,Pasco,78,0,0,-10.5,-75.25,PER,South America
+724,Peru,Puno,69,0,0,-15.0,-70.0,PER,South America
+725,Peru,Apurimac,68,0,0,-14.0,-73.0,PER,South America
+726,Peru,Tacna,68,0,0,-18.013869600000003,-70.2511597,PER,South America
+727,Peru,Ayacucho,53,0,0,-14.0,-74.0,PER,South America
+728,Peru,Huancavelica,40,0,0,-13.0,-75.0,PER,South America
+729,Philippines,Metro Manila,5332,608,351,14.5736108,121.0329706,PHL,Asia
+730,Philippines,Calabarzon,1034,93,68,14.1638114,121.35366010781269,PHL,Asia
+731,Philippines,Central Visayas,399,19,8,10.264054,123.86939597334481,PHL,Asia
+732,Philippines,Central Luzon,358,24,25,15.390911849999998,120.68569951248944,PHL,Asia
+733,Philippines,Davao Region,118,62,17,6.610975,125.42986518727275,PHL,Asia
+734,Philippines,Western Visayas,62,10,8,10.67295935,122.72299087286852,PHL,Asia
+735,Philippines,Ilocos Region,57,4,11,17.201295899999998,120.47134539388077,PHL,Asia
+736,Philippines,Bicol,44,4,3,13.100588,123.52313310936306,PHL,Asia
+737,Philippines,Cordillera Administrative Region,42,17,1,17.36674735,121.06316012339529,PHL,Asia
+738,Philippines,Cagayan Valley,28,22,1,17.68069845,121.87547698030208,PHL,Asia
+739,Philippines,SOCCSKSARGEN,16,4,1,6.5940759999999985,124.53813740467243,PHL,Asia
+740,Philippines,MIMAROPA,15,7,2,13.0152201,121.40641830505142,PHL,Asia
+741,Philippines,Northern Mindanao,12,5,5,8.40488525,124.6871960669078,PHL,Asia
+742,Philippines,Zamboanga Peninsula,11,3,1,7.77301775,122.75600476636144,PHL,Asia
+743,Philippines,Autonomous Region in Muslim Mindanao,10,0,3,120.0284034624274,5.8506231,PHL,Asia
+744,Philippines,Eastern Visayas,8,2,1,11.32782725,124.99755612215378,PHL,Asia
+745,Philippines,Caraga,3,0,0,9.2471392,125.85578188652231,PHL,Asia
+746,Portugal,Norte Region,14381,0,0,-1.6292632,-45.2368151,PRT,Europe
+747,Portugal,Lisboa Region,5531,0,0,-36.77937429999999,-73.10804005,PRT,Europe
+748,Portugal,"Centro Region, Portugal",3241,0,0,-8.671858750408639,41.1532183,PRT,Europe
+749,Portugal,Faro District,326,0,0,37.2454248,-8.150925273079235,PRT,Europe
+750,Portugal,Alentejo Region,187,0,0,38.0551003,-7.8605799,PRT,Europe
+751,Portugal,Azores,120,0,0,37.80852735000001,-25.473085286479588,PRT,Europe
+752,Portugal,Madeira,93,0,0,32.751748750000004,-16.981752048847362,PRT,Europe
+753,Romania,Suceava County,2650,0,105,47.53251675,25.818801387932247,ROU,Europe
+754,Romania,Bucharest,1190,0,31,44.4361414,26.1027202,ROU,Europe
+755,Romania,Arad County,522,0,25,46.1753793,21.3196342,ROU,Europe
+756,Romania,Hunedoara County,472,0,25,45.7958547,22.944483784106414,ROU,Europe
+757,Romania,Timiș County,443,0,14,45.6890988,21.63046721597148,ROU,Europe
+758,Romania,Neamț County,435,0,10,46.99078285,26.48534958395309,ROU,Europe
+759,Romania,Botoșani County,431,0,3,26.6573326,47.743378,ROU,Europe
+760,Romania,Bihor County,416,0,3,46.992055,22.190274243393226,ROU,Europe
+761,Romania,Brașov County,416,0,17,45.6523093,25.6102746,ROU,Europe
+762,Romania,Mureș County,407,0,31,46.60645805,24.62519263685235,ROU,Europe
+763,Romania,Galați,354,0,8,45.4338215,28.054939500000003,ROU,Europe
+764,Romania,Cluj County,308,0,4,46.769379,23.5899542,ROU,Europe
+765,Romania,Sibiu,259,0,9,45.7973912,24.1519202,ROU,Europe
+766,Romania,Ilfov County,246,0,0,44.5017074,26.24490765115929,ROU,Europe
+767,Romania,Vrancea County,245,0,3,45.78870885,26.8838029687553,ROU,Europe
+768,Romania,Constanța County,233,0,5,44.1767161,28.6507598,ROU,Europe
+769,Romania,Iași County,230,0,6,47.1615341,27.5836142,ROU,Europe
+770,Romania,Covasna County,179,0,3,45.89667925000001,26.01018061174567,ROU,Europe
+771,Romania,Bacău County,175,0,8,46.42613415,26.71205400126924,ROU,Europe
+772,Romania,Alba County,165,0,4,46.01592125000001,23.54685524706489,ROU,Europe
+773,Romania,Bistrița-Năsăud County,158,0,8,47.179566,24.507248880720052,ROU,Europe
+774,Romania,Ialomița County,154,0,9,27.3617654,44.5614697,ROU,Europe
+775,Romania,Argeș County,131,0,0,44.99499355,24.84863244014989,ROU,Europe
+776,Romania,Giurgiu County,127,0,1,43.89586129999999,25.9658299,ROU,Europe
+777,Romania,Dâmbovița County,96,0,2,44.92677275,25.483182109125252,ROU,Europe
+778,Romania,Teleorman County,96,0,2,44.06812915,25.18653177142434,ROU,Europe
+779,Romania,Vaslui County,91,0,2,46.496847,27.803320995724807,ROU,Europe
+780,Romania,Caraș-Severin County,87,0,2,45.12689965,22.076779392786246,ROU,Europe
+781,Romania,Dolj County,82,0,2,44.2141283,23.66923490820313,ROU,Europe
+782,Romania,Maramureș County,70,0,1,24.196416062199287,47.67234139999999,ROU,Europe
+783,Romania,Prahova,66,0,0,45.10875455,26.03762296377709,ROU,Europe
+784,Romania,Mehedinți County,58,0,3,44.6233969,22.647794782293982,ROU,Europe
+785,Romania,Satu Mare County,55,0,5,47.7891763,22.8725598,ROU,Europe
+786,Romania,Călărași County,51,0,0,44.31591585,27.13975742983912,ROU,Europe
+787,Romania,Tulcea County,40,0,0,45.177518,28.8016348,ROU,Europe
+788,Romania,Gorj County,38,0,1,45.12278,23.24073,ROU,Europe
+789,Romania,Sălaj,30,0,1,47.1562143,23.016859868606787,ROU,Europe
+790,Romania,Vâlcea County,24,0,0,45.0404536,24.153871902772927,ROU,Europe
+791,Romania,Brăila County,22,0,0,45.2716092,27.9742932,ROU,Europe
+792,Romania,Harghita County,21,0,1,46.6440949,25.62008089773712,ROU,Europe
+793,Romania,Buzău County,17,0,0,45.26925815,26.7748172789942,ROU,Europe
+794,South Korea,Daegu,6862,5974,169,35.8713,128.6018,KR,Asia
+795,South Korea,Gyeongsangbuk-do,1364,1104,52,36.5754,128.5058,KR,Asia
+796,South Korea,Gyeonggi-do,671,448,14,37.2752,127.0095,KR,Asia
+797,South Korea,Seoul,629,383,2,37.5666791,126.97829140000002,KR,Asia
+798,South Korea,South Chungcheong Province,142,123,0,36.6593,126.6729,KR,Asia
+799,South Korea,Busan,137,116,3,35.1799528,129.0752365,KR,Asia
+800,South Korea,Gyeongsangnam-do,117,91,0,35.2382,128.6925,KR,Asia
+801,South Korea,Incheon,92,55,0,37.456,126.7052,KR,Asia
+802,South Korea,Gangwon-do,53,32,2,37.885,127.7297,KR,Asia
+803,South Korea,Sejong City,52,35,0,36.4799999,127.289,KR,Asia
+804,South Korea,Daejeon,48,32,0,36.3496,127.3848,KR,Asia
+805,South Korea,Chungcheongbuk-do,46,40,0,36.6357,127.4915,KR,Asia
+806,South Korea,Ulsan,43,36,1,35.5391697,129.3119136,KR,Asia
+807,South Korea,Gwangju,32,25,0,35.159577500000005,126.8515089,KR,Asia
+808,South Korea,Jeollabuk-do,18,10,0,35.8198999,127.109,KR,Asia
+809,South Korea,Jeollanam-do,17,8,0,34.8159,126.4629,KR,Asia
+810,South Korea,Jeju-do,14,8,0,33.4887737,126.4987083,KR,Asia
+811,Spain,Community of Madrid,59126,35367,7922,40.5248319,-3.771562775451812,ESP,Europe
+812,Spain,Catalonia,46811,17006,4566,41.8523094,1.5745043,ESP,Europe
+813,Spain,Castile and León,16222,6208,1666,41.8037172,-4.7471726,ESP,Europe
+814,Spain,Castile-La Mancha,15609,5196,2330,39.4177902,-2.6232332,ESP,Europe
+815,Spain,Basque Country,12455,9602,1230,42.9911816,-2.5543023,ESP,Europe
+816,Spain,Andalusia,11744,4741,1145,37.3399964,-4.5811614,ESP,Europe
+817,Spain,Valencian Community,10160,6243,1186,39.6819591,-0.7654406,ESP,Europe
+818,Spain,Galicia,9176,1803,394,42.61946,-7.863111999999999,ESP,Europe
+819,Spain,Aragon,4955,1960,712,41.3787291,-0.7639373,ESP,Europe
+820,Spain,Navarre,4712,1835,431,42.61254875,-1.8307876829915457,ESP,Europe
+821,Spain,La Rioja,3861,2037,315,42.3285528,-2.4674917,ESP,Europe
+822,Spain,Extremadura,2736,1582,422,39.17484260000001,-6.152989099999999,ESP,Europe
+823,Spain,Asturias,2249,749,249,43.2710878,-5.854145744587305,ESP,Europe
+824,Spain,Canary Islands,2167,1048,131,28.2935785,-16.621447121144122,ESP,Europe
+825,Spain,Cantabria,2083,1127,183,43.1595664,-4.0878382,ESP,Europe
+826,Spain,Balearic Islands,1854,1123,175,2.880430532640076,39.6134018,ESP,Europe
+827,Spain,Region of Murcia,1474,920,127,37.9166355,-1.4779797,ESP,Europe
+828,Spain,Melilla,110,81,2,35.2918698,-2.9409026000000003,ESP,Europe
+829,Spain,Ceuta,100,104,4,35.888361,-5.304138,ESP,Europe
+830,Sri Lanka,Colombo,154,0,0,6.9349969,79.8538463,LKA,Asia
+831,Sri Lanka,Kalutara,59,0,0,6.5835219,79.96125079999999,LKA,Asia
+832,Sri Lanka,Puttalam,37,0,0,8.0301856,79.8286583,LKA,Asia
+833,Sri Lanka,Gampaha,34,0,0,7.0925595,79.9951396,LKA,Asia
+834,Sri Lanka,Jaffna,16,0,0,9.665093,80.00930290000002,LKA,Asia
+835,Sri Lanka,Kurunegala,12,0,0,7.4870464,80.364908,LKA,Asia
+836,Sri Lanka,Kandy,7,0,0,7.2930922,80.6350768,LKA,Asia
+837,Sri Lanka,Ratnapura,7,0,0,6.680369099999999,80.4022975,LKA,Asia
+838,Sri Lanka,Kegalle,5,0,0,7.253200599999999,80.3454132,LKA,Asia
+839,Sri Lanka,Ampara,2,0,0,7.2911226,81.6723954,LKA,Asia
+840,Sri Lanka,Badulla,2,0,0,6.9898202000000005,81.0569425,LKA,Asia
+841,Sri Lanka,Matara,2,0,0,5.947822,80.54829190000002,LKA,Asia
+842,Sri Lanka,Batticaloa,1,0,0,7.7356027,81.69419559999999,LKA,Asia
+843,Sri Lanka,Galle,1,0,0,6.032813900000002,80.214955,LKA,Asia
+844,Sri Lanka,Vavuniya,1,0,0,8.7593517,80.5000778,LKA,Asia
+845,Sweden,Stockholm County,7290,0,0,59.39015129999999,18.66427492013602,SWE,Europe
+846,Sweden,Västra Götaland County,2058,0,0,58.20302695,12.649730022427757,SWE,Europe
+847,Sweden,Östergötland County,1355,0,0,58.36782395,16.050427203885352,SWE,Europe
+848,Sweden,Södermanland County,1089,0,0,58.96382725,16.729934811622115,SWE,Europe
+849,Sweden,Uppsala County,875,0,0,60.1486,17.6249561013141,SWE,Europe
+850,Sweden,Örebro County,860,0,0,15.215118099999998,59.2747287,SWE,Europe
+851,Sweden,Dalarna County,685,0,0,61.06037785,14.215087316959055,SWE,Europe
+852,Sweden,Jonkoping County,680,0,0,57.535426,14.641181601671247,SWE,Europe
+853,Sweden,Västmanland County,660,0,0,59.6965639,16.18465359159597,SWE,Europe
+854,Sweden,Skåne County,656,0,0,55.84694095,13.635831212379534,SWE,Europe
+855,Sweden,Gavleborg County,514,0,0,61.26138005,16.69871011215217,SWE,Europe
+856,Sweden,Halland County,300,0,0,56.96045925,12.807325812324002,SWE,Europe
+857,Sweden,Västerbotten County,292,0,0,64.7196392,18.569708339695726,SWE,Europe
+858,Sweden,Jamtland County,277,0,0,63.34522220000001,14.124985984451182,SWE,Europe
+859,Sweden,Kronoberg County,259,0,0,56.80067805,14.411160995108744,SWE,Europe
+860,Sweden,Norrbotten County,231,0,0,66.9798719,20.000300813027625,SWE,Europe
+861,Sweden,Västernorrland County,195,0,0,63.05896925,18.105868264726514,SWE,Europe
+862,Sweden,Kalmar County,140,0,0,57.02784235,16.57526801061616,SWE,Europe
+863,Sweden,Varmland County,135,0,0,59.89054465,13.294924808070956,SWE,Europe
+864,Sweden,Blekinge County,63,0,0,56.12401225,15.402123955552616,SWE,Europe
+865,Sweden,Gotland County,26,0,0,57.6783173,18.638463586098844,SWE,Europe
+866,Switzerland,Vaud,5143,1,266,46.6356963,6.5320717,CHE,Europe
+867,Switzerland,Geneva,4733,1,178,46.2017559,6.1466014000000015,CHE,Europe
+868,Switzerland,Zurich,3754,11,90,47.3723941,8.5423328,CHE,Europe
+869,Switzerland,Ticino,3142,568,269,46.3356506,8.753706,CHE,Europe
+870,Switzerland,Valais,1825,0,75,46.2303063,7.6605757,CHE,Europe
+871,Switzerland,Canton of Bern,1708,0,55,46.9482713,7.4514512,CHE,Europe
+872,Switzerland,Aargau,1052,0,17,47.412396,8.1948321,CHE,Europe
+873,Switzerland,Fribourg,1029,0,49,46.678911600000006,7.1027113,CHE,Europe
+874,Switzerland,Basel City,936,0,33,47.5579097,7.5927728,CHE,Europe
+875,Switzerland,Basel-Landschaft,816,0,22,47.5092938,7.658833299999999,CHE,Europe
+876,Switzerland,Grisons,794,0,35,46.6960615,9.6027351,CHE,Europe
+877,Switzerland,St. Gallen,753,0,17,47.4250593,9.3765878,CHE,Europe
+878,Switzerland,Neuchâtel,669,0,34,46.9895828,6.9292641,CHE,Europe
+879,Switzerland,Lucerne,667,0,9,47.0505452,8.3054682,CHE,Europe
+880,Switzerland,Solothurn,379,0,5,47.31874000000001,7.6698284,CHE,Europe
+881,Switzerland,Thurgau,359,0,8,47.5859649,9.1428769,CHE,Europe
+882,Switzerland,Uri,334,0,4,46.78644129999999,8.6420159,CHE,Europe
+883,Switzerland,Schwyz,287,0,10,47.0571976,8.7222073,CHE,Europe
+884,Switzerland,Canton of Zug,259,1,3,46.896312,9.42814,CHE,Europe
+885,Switzerland,Glarus,199,0,2,46.9796562,9.108812,CHE,Europe
+886,Switzerland,Jura,196,0,2,47.35666989999999,7.1598893,CHE,Europe
+887,Switzerland,Nidwalden,108,0,0,46.942756,8.4119773,CHE,Europe
+888,Switzerland,Appenzell Ausserrhoden,88,0,3,47.3960076,9.370583900000002,CHE,Europe
+889,Switzerland,Obwalden,71,0,0,46.8613857,8.2067825,CHE,Europe
+890,Switzerland,Schaffhausen,71,0,1,47.6960491,8.634513,CHE,Europe
+891,Switzerland,Appenzell Innerrhoden,25,0,0,47.30072620000001,9.399152699999998,CHE,Europe
+892,Tunisia,Tunis,205,0,6,33.8439408,9.400138,TUN,Africa
+893,Tunisia,Kebili,96,0,0,33.33877015,8.703290964584628,TUN,Africa
+894,Tunisia,Ariana,95,0,5,36.96857350000001,10.121985506329509,TUN,Africa
+895,Tunisia,Ben Arous,92,0,3,36.7488603,10.22460082000001,TUN,Africa
+896,Tunisia,Medenine,87,0,3,32.981998700000005,11.287025364730832,TUN,Africa
+897,Tunisia,Sousse,82,0,5,35.828829,10.640525,TUN,Africa
+898,Tunisia,La Manouba,39,0,5,36.8115973,10.085763187193221,TUN,Africa
+899,Tunisia,Gafsa,38,0,0,34.43367,8.79079875204918,TUN,Africa
+900,Tunisia,Monastir,37,0,0,35.739872399999996,10.798839679614954,TUN,Africa
+901,Tunisia,Sfax,36,0,5,34.8433201,10.5178537,TUN,Africa
+902,Tunisia,Tataouine,35,0,1,31.7317009,9.770219749624275,TUN,Africa
+903,Tunisia,Gabes,22,0,0,33.7765032,9.79306296557616,TUN,Africa
+904,Tunisia,Bizerte,21,0,1,37.2720905,9.8708565,TUN,Africa
+905,Tunisia,Mahdia,15,0,1,35.48778925000001,10.962243331900263,TUN,Africa
+906,Tunisia,Nabeul,12,0,1,36.4823676,10.67071969788044,TUN,Africa
+907,Tunisia,Kasserine,7,0,0,35.1678191,8.8348097,TUN,Africa
+908,Tunisia,Kairouan,6,0,0,35.67101010000001,10.10062,TUN,Africa
+909,Tunisia,Kef,5,0,1,36.03576425,8.724938087611969,TUN,Africa
+910,Tunisia,Sidi Bou Zid,5,0,1,36.8632509,10.3042111,TUN,Africa
+911,Tunisia,Tozeur,5,0,0,33.913484999999994,8.111824071052634,TUN,Africa
+912,Tunisia,Beja,3,0,0,36.74623035000001,9.203232836920057,TUN,Africa
+913,Tunisia,Zaghouan,3,0,0,36.41171955,10.201979784444637,TUN,Africa
+914,Tunisia,Siliana,2,0,0,35.9715323,9.357712875636699,TUN,Africa
+915,Tunisia,Jendouba,1,0,0,36.67797255,8.752646965460535,TUN,Africa
+916,Ukraine,Chernivtsi Oblast,1375,60,26,48.3810791,26.1081673,UKR,Europe
+917,Ukraine,Kyiv city,1220,60,22,50.3876531,30.4713605,UKR,Europe
+918,Ukraine,Ivano-Frankivsk Oblast,761,66,47,48.7481718,24.5207477,UKR,Europe
+919,Ukraine,Ternopil Oblast,612,70,9,49.663000200000006,25.6167516,UKR,Europe
+920,Ukraine,Kyiv Oblast,570,57,12,50.178595,30.4924884,UKR,Europe
+921,Ukraine,Rivne Oblast,522,46,11,51.2074112,26.5208033,UKR,Europe
+922,Ukraine,Vinnytsia Oblast,398,64,3,48.8990315,28.516068,UKR,Europe
+923,Ukraine,Zakarpattia Oblast,375,30,7,48.2953664,23.4466092,UKR,Europe
+924,Ukraine,Lviv Oblast,358,57,12,49.6512234,23.8266948,UKR,Europe
+925,Ukraine,Zhytomyr Oblast,351,10,7,50.9080532,28.3867504,UKR,Europe
+926,Ukraine,Kirovohrad Oblast,337,54,16,48.3725226,31.7834817,UKR,Europe
+927,Ukraine,Dnipropetrovsk Oblast,310,13,1,48.662589,34.9501715,UKR,Europe
+928,Ukraine,Cherkasy Oblast,267,55,4,49.1460165,31.2271744,UKR,Europe
+929,Ukraine,Volyn Oblast,254,49,6,51.5451167,24.6627893,UKR,Europe
+930,Ukraine,Odessa Oblast,240,9,3,46.1147226,29.956719300000003,UKR,Europe
+931,Ukraine,Zaporizhia Oblast,204,39,4,47.4165079,35.922969,UKR,Europe
+932,Ukraine,Kharkiv Oblast,196,15,2,49.82995820000001,36.37889570000001,UKR,Europe
+933,Ukraine,Poltava Oblast,173,14,3,49.8607809,33.749878700000004,UKR,Europe
+934,Ukraine,Mykolaiv Oblast,115,0,1,47.3886032,31.9442334,UKR,Europe
+935,Ukraine,Sumy Oblast,95,48,4,50.7696518,34.3289305,UKR,Europe
+936,Ukraine,Kherson Oblast,88,15,1,46.5421715,33.4079326,UKR,Europe
+937,Ukraine,Khmelnytskyi Oblast,72,16,5,49.268624,27.0635998,UKR,Europe
+938,Ukraine,Donetsk Oblast,52,10,1,47.9212914,37.7809825,UKR,Europe
+939,Ukraine,Chernihiv Oblast,35,4,2,51.272593,31.7417235,UKR,Europe
+940,Ukraine,Luhansk Oblast,29,3,0,49.27245870000001,38.9150477,UKR,Europe
+941,United Kingdom,Greater London,18000,0,0,51.4893335,-0.14405508452768728,GBR,Europe
+942,United Kingdom,Midlands,11368,0,0,50.598892600000006,-4.1006857000000005,GBR,Europe
+943,United Kingdom,North West,10027,0,0,52.2370231,-0.4686149000000001,GBR,Europe
+944,United Kingdom,North East and Yorkshire,9070,0,0,54.5801786,-1.1761942,GBR,Europe
+945,United Kingdom,South East England,8517,0,0,51.46426255,-0.6517147211401418,GBR,Europe
+946,United Kingdom,Scotland,6067,0,0,56.78611120000001,-4.1140518,GBR,Europe
+947,United Kingdom,East of England,6002,0,0,52.2199774,0.4875777469166293,GBR,Europe
+948,United Kingdom,Wales,5610,0,0,52.2928116,-3.73893,GBR,Europe
+949,United Kingdom,South West England,3392,0,0,51.0339991,-2.949011916021195,GBR,Europe
+950,United Kingdom,Northern Ireland,1882,0,0,54.62949820000001,-6.7654416,GBR,Europe
+951,United States,New York,282,0,16599,40.7127281,-74.0060152,USA,North America
+952,United States,New Jersey,106,0,5863,40.0757384,-74.4041622,USA,North America
+953,United States,Massachusetts,53348,0,2730,42.3788774,-72.03236600000002,USA,North America
+954,United States,Illinois,41777,0,1874,40.0796606,-89.4337288,USA,North America
+955,United States,California,41137,0,1651,36.7014631,-118.7559974,USA,North America
+956,United States,Pennsylvania,40049,0,1537,40.9699889,-77.72788309999999,USA,North America
+957,United States,Michigan,37203,0,3274,43.6211955,-84.6824346,USA,North America
+958,United States,Florida,30839,0,1055,27.7567667,-81.4639835,USA,North America
+959,United States,Louisiana,26512,14927,1644,30.8703881,-92.007126,USA,North America
+960,United States,Connecticut,24582,0,1862,41.6500201,-72.7342163,USA,North America
+961,United States,Texas,23773,9986,623,31.8160381,-99.5120986,USA,North America
+962,United States,Georgia,22695,0,904,32.329380900000004,-83.1137366,USA,North America
+963,United States,Maryland,17766,1165,797,39.5162234,-76.9382069,USA,North America
+964,United States,Ohio,15587,0,711,40.2253569,-82.6881395,USA,North America
+965,United States,Indiana,14395,0,785,40.3270127,-86.1746933,USA,North America
+966,United States,Washington,13319,0,738,38.8949855,-77.03657079999998,USA,North America
+967,United States,Colorado,12968,0,672,38.7251776,-105.6077167,USA,North America
+968,United States,Virginia,12366,0,436,37.1232245,-78.4927721,USA,North America
+969,United States,Tennessee,9189,4467,178,35.7730076,-86.28200809999998,USA,North America
+970,United States,North Carolina,8623,0,289,35.6729639,-79.03929190000002,USA,North America
+971,United States,Rhode Island,7129,0,215,41.7962409,-71.59923719999998,USA,North America
+972,United States,Missouri,6826,0,273,38.7604815,-92.5617875,USA,North America
+973,United States,Arizona,6280,0,273,34.395342,-111.7632755,USA,North America
+974,United States,Alabama,6207,0,212,33.2588817,-86.8295337,USA,North America
+975,United States,Mississippi,5718,0,221,32.9715645,-89.7348497,USA,North America
+976,United States,Wisconsin,5687,0,266,44.4308975,-89.6884637,USA,North America
+977,United States,South Carolina,5253,0,166,33.687438799999995,-80.4363743,USA,North America
+978,United States,Iowa,5092,1723,112,41.9216734,-93.3122705,USA,North America
+979,United States,Nevada,4539,0,206,39.5158825,-116.8537227,USA,North America
+980,United States,Utah,3948,1399,41,39.4225192,-111.7143584,USA,North America
+981,United States,Kentucky,3905,0,205,37.5726028,-85.1551411,USA,North America
+982,United States,"Washington, D.C.",3699,652,165,36.29885175,-82.35919331410949,USA,North America
+983,United States,Delaware,3576,809,112,38.6920451,-75.4013315,USA,North America
+984,United States,Minnesota,3446,1654,244,45.98965870000001,-94.6113288,USA,North America
+985,United States,Oklahoma,3193,2080,194,34.9550817,-97.2684063,USA,North America
+986,United States,Kansas,3174,0,118,38.27312,-98.5821872,USA,North America
+987,United States,Arkansas,2830,970,47,35.2048883,-92.4479108,USA,North America
+988,United States,Nebraska,2732,0,53,41.7370229,-99.5873816,USA,North America
+989,United States,New Mexico,2660,0,93,34.5708167,-105.993007,USA,North America
+990,United States,Oregon,2253,0,87,43.9792797,-120.737257,USA,North America
+991,United States,South Dakota,2147,1223,10,44.6471761,-100.348761,USA,North America
+992,United States,Idaho,1870,867,54,43.6447642,-114.0154071,USA,North America
+993,United States,New Hampshire,1787,777,60,43.4849133,-71.6553992,USA,North America
+994,United States,Puerto Rico,1307,0,83,18.2214149,-66.41328179513847,USA,North America
+995,United States,West Virginia,1025,455,33,38.47584060000001,-80.84084150000002,USA,North America
+996,United States,Maine,990,519,50,45.709097,-68.8590201,USA,North America
+997,United States,Vermont,843,0,46,44.5990718,-72.5002608,USA,North America
+998,United States,North Dakota,803,310,16,47.6201461,-100.540737,USA,North America
+999,United States,Hawaii,604,482,14,21.2160437,-157.975203,USA,North America
+1000,United States,Wyoming,491,334,7,43.1700264,-107.5685348,USA,North America
+1001,United States,Montana,445,339,14,47.3752671,-109.63875790000002,USA,North America
+1002,United States,Alaska,339,217,9,64.44596130000001,-149.680909,USA,North America
+1003,United States,Guam,141,128,5,13.4501257,144.75755102972062,USA,North America
+1004,United States,U.S. Virgin Islands,57,51,4,17.789187,-64.7080574,USA,North America
+1005,United States,Northern Mariana Islands,14,11,2,14.149020499999999,145.21345248318926,USA,North America
+1006,United States,American Samoa,0,0,0,-14.30063095,-170.69597479165532,USA,North America
+1007,Uruguay,Montevideo Department,448,268,9,-13.6446193,-73.6921747,URY,South America
+1008,Uruguay,Canelones Department,84,63,2,-56.2817519,-34.5242373,URY,South America
+1009,Uruguay,Maldonado Department,23,13,3,-12.5938633,-69.1866773,URY,South America
+1010,Uruguay,Salto Department,12,10,0,-14.9766657,-72.3129892,URY,South America
+1011,Uruguay,Río Negro Department,9,4,0,-11.208639300000002,-74.65985079999999,URY,South America
+1012,Uruguay,Colonia Department,8,6,0,-3.5167567,-72.43733879999998,URY,South America
+1013,Uruguay,Lavalleja Department,4,2,0,-8.066274900000002,-79.0496323,URY,South America
+1014,Uruguay,San José Department,3,3,0,-7.3391524000000015,-78.05097590000003,URY,South America
+1015,Uruguay,Durazno Department,1,0,0,-13.4232342,-76.1705954,URY,South America
+1016,Uruguay,Flores Department,1,1,0,-12.1873586,-76.9903021,URY,South America
+1017,Uruguay,Paysandú Department,1,1,0,-58.08921360000001,-32.3217257,URY,South America
+1018,Uruguay,Rocha Department,1,1,0,-14.493458300000002,-75.2396406,URY,South America
+1019,Uruguay,Soriano Department,1,1,0,-13.9138455,-75.9249243,URY,South America
